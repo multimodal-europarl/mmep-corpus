@@ -12,4 +12,10 @@ NB. This is a git submodule of `mmep-corpus-process`.
 	- pfsx files in the gitignore!
 - `written-records/`: written versions and translations of Europarl
 	- TODO: how to organize this in the best way?
+	
+
+## Why submodule?
+
+- keep data conceptually and practically distinct from code that curates data and issues relating to analyses
+- allows reuse of data without necessarily relying on the ecosystem developed in the mama-corpus -- [`mmep-corpus-process`](https://github.com/multimodal-europarl/mmep-corpus-process)
  
