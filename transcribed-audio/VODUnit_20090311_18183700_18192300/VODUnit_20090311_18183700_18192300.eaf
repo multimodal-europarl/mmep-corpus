@@ -1,0 +1,1929 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2019-11-05T14:16:24+01:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/VODUnit_20090311_18183700_18192300.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="VODUnit_20090311_18183700_18192300.mp4" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_2_eng_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_2_eng_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_3_fra_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_3_fra_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_4_ger_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_4_ger_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_5_ita_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_5_ita_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_6_spa_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_6_spa_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_7_gre_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_7_gre_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_8_por_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_8_por_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_9_dut_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_9_dut_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_10_dan_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_10_dan_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_11_fin_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_11_fin_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_12_swe_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_12_swe_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_13_cze_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_13_cze_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_14_est_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_14_est_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_15_lav_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_15_lav_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_16_lit_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_16_lit_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_17_hun_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_17_hun_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_18_mlt_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_18_mlt_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_19_pol_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_19_pol_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_20_slo_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_20_slo_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_21_slv_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_21_slv_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_22_bul_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_22_bul_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_23_rum_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_23_rum_VODUnit_20090311_18183700_18192300.mp3" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/H/VODUnit_20090311_18183700_18192300/_1_und_VODUnit_20090311_18183700_18192300.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_1_und_VODUnit_20090311_18183700_18192300.mp3" />
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2bb01589-bf3d-4141-871d-8f31be10fd9b</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="5210" />
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="22990" />
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="25600" />
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="30350" />
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="30450" />
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="32990" />
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="33150" />
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="33910" />
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="35640" />
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="37590" />
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="7410" />
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="23580" />
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="41920" />
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="45700" />
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="45810" />
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="4350" />
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="16670" />
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="17350" />
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="31300" />
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="37400" />
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="37540" />
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="39540" />
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="8950" />
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="15560" />
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="23670" />
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="40240" />
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="40370" />
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="14450" />
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="20370" />
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="39580" />
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="42630" />
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="44360" />
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="5650" />
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="11460" />
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="14980" />
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="17390" />
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="22180" />
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="24980" />
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="39620" />
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="14560" />
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="19400" />
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="20930" />
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="25560" />
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="43010" />
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="4350" />
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="4600" />
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="8020" />
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="8140" />
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="10890" />
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="24120" />
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="34400" />
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="5210" />
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="14620" />
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="19900" />
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="31530" />
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="7990" />
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="18720" />
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="19250" />
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="19650" />
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="34060" />
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="40900" />
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="8830" />
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="21240" />
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="24400" />
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="39360" />
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="18260" />
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="35110" />
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="19030" />
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="19450" />
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="32200" />
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="40300" />
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="45420" />
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="45680" />
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="45790" />
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="6010" />
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="8570" />
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="8940" />
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="16149" />
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="35080" />
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="39050" />
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="39310" />
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="7650" />
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="19680" />
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="24110" />
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="40300" />
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="17020" />
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="19840" />
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="39240" />
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="41720" />
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="42080" />
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="42420" />
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="42670" />
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="44880" />
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="44980" />
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="45080" />
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="45190" />
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="45290" />
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="45520" />
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="45700" />
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="45820" />
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="16260" />
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="17900" />
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="27130" />
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="38390" />
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="38690" />
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="38830" />
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="45590" />
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="45730" />
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="45830" />
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="3590" />
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="5210" />
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="7340" />
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="23590" />
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="39210" />
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="6360" />
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="19300" />
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="26250" />
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="4250" />
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="8189" />
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="14970" />
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="17940" />
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="19330" />
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="33080" />
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="40810" />
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="7990" />
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="20370" />
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="20500" />
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="20620" />
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="34440" />
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="45930" />
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="17260" />
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="20620" />
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="39870" />
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="42950" />
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="43070" />
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="44700" />
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="45930" />
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_eng">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>thank you</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>chair</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>dedication and commitment</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>which are seldom seen elsewhere and that's been a great pleasure</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>was all the more reason</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>thank you very much</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts139">
+                <ANNOTATION_VALUE>beaches closed tomorrow</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>0.98762906</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>0.60229367</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>0.98762912</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>0.68351465</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>0.57740551</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>0.95773864</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>0.84209472</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fra">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts169">
+                <ANNOTATION_VALUE>merci beaucoup madame.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>après je vais très très bien et je vous remercie tous ceux qui ont participé et je dois dire que auprès de tous ceux qui travaillent au tribunal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>trouver un engagement que j'ai rarement mais je dois dire que ce que tu penses je vous remercie</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>demain</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>0.92732555</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>0.83948624</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>0.93691105</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>0.93855584</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ger">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE>Rechen gibt's auch in Zukunft nicht danke schön Frau nett</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>Thank You danke schön Frau Präsidentin ich werde mich ganz kurz fassen ich wollte mich bei allen bedanken die einen Beitrag geleistet haben zu dieser Aussprache und wollte sagen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>dass ich wirklich großes Mitgefühl habe für jeden der im Gerichtshof arbeitet hart und arbeiten ich habe das zu viel Engagement erlebt kaum jemals woanders also das habe ich erlebt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>zu tun hat und das war eine große Freude das war ein weiterer Grund warum ich diese Vorschläge unterbreitet sind</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE>ePages</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE>Aussprache ist damit beendet und die Abstimmung wird morgen stattfinden</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>0.84204137</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>0.90945017</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>0.89860839</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>0.87137449</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>0.50269085</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>0.90182561</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ita">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts179">
+                <ANNOTATION_VALUE>per concludere Grazie Presidente</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>praticamente a breve volevo ringraziare tutti coloro che hanno contribuito a questa discussione volevo dire che</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>trovo che tutti coloro che lavorano che hanno lavorato collaborato con il TP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>c'è un livello di</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>Grazie La discussione è chiusa il voto avrà luogo domani</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>0.93688959</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>0.89142025</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>0.92475295</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>0.83266163</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>0.93966448</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_spa">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>señor gracias presidente voy a ser sumamente en primer lugar dar las gracias a todos los que han participado en el eBay</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>y decir que</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>todas las personas que han trabajado en el tribunal o que han colaborado con él pues son personas muy dedicadas muy comprometidas cosa que no siempre vemos en otras instituciones y otros tribunales ha sido un auténtico placer constatar esto y por esta razón he querido hacer esta propuesta gracias</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>concluimos el debate</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts121">
+                <ANNOTATION_VALUE>la votación se celebrará mañana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>0.93965203</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>0.96266198</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>0.95389223</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>0.96399021</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>0.96399021</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_gre">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts165">
+                <ANNOTATION_VALUE>οι δικαστικές και να μην υπάρξει στο μέλλον</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ευχαριστώ πολύ στα αγγλικά</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts101">
+                <ANNOTATION_VALUE>όργανα</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>τελειώνει η συζήτηση λέει πρόεδρος η ψηφοφορία θα ξεκινήσει αύριο</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>0.83367693</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>0.92926472</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>0.72409135</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>0.91690618</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_por">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>aquele que não acha no futuro o crime não foram eu não</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>escreveram no</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>trabalharam trabalham</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>manifestaram indicação de empilhamento inigualável O que é um facto nos estar com o preço certo está concluído</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>0.82006526</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>0.84122574</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>0.71281874</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>0.88465637</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dut">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>afblijven Dankjewel we gaan eten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts173">
+                <ANNOTATION_VALUE>thank you</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>voorzitter Ik zal het zo kort haar</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>dat iedereen die werkt of gewerkt of</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>Don't en.in</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>Vandaar dat ik dan stemmen morgen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>0.73797715</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>0.95625013</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>0.78787607</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>0.82504928</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>0.36817369</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a111">
+                <ANNOTATION_VALUE>0.82241315</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a111">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dan">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts163">
+                <ANNOTATION_VALUE>tak</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Mange tak for manden jeg kan gøre det meget godt Jeg vil gerne takke alle der har bidraget til debatten at jeg vil gerne</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a126" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>Jeg mener at alle der har arbejdet med krigsforbrydere sammen sammen fiskerbåde domstolen Undskyld har været meget man kan se det er noget jeg skal have sex med et eller andet sted Så det har været en stor</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts147">
+                <ANNOTATION_VALUE>og så meget mere grund til at komme med disse forslag debatten er hermed slutt afstemning finder sted i morgen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a124">
+                <ANNOTATION_VALUE>0.9305619</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE>0.88465101</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a126">
+                <ANNOTATION_VALUE>0.85303658</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a127">
+                <ANNOTATION_VALUE>0.89521086</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a124">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a126">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a127">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fin">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts171">
+                <ANNOTATION_VALUE>ei jää rankaisematta</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>Kiitos puhemies tuohon hyvin lyhyesti Haluan kiittää kaikkia jotka ovat osallistuneet tähän keskusteluun ja haluaisin sanoa että</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>kaikki ne jotka työskentelevät tai ovat työskennelleet ICT Missä ovat hyvin omistautuneita tälle asialle ja sellaista Olen harvoin nähnyt muualla on ollut todella ilo seurata heidän</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>työskentely en ja sitä suuremmalla syyllä Meidän täytyy tehdä näitä ehdotuksia kiitos</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a140" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>keskustelu päättyy äänestys järjestetään huomenna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a136">
+                <ANNOTATION_VALUE>0.9122293</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE>0.89671326</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a138">
+                <ANNOTATION_VALUE>0.87796843</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a139">
+                <ANNOTATION_VALUE>0.87546945</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a140">
+                <ANNOTATION_VALUE>0.88553655</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a136">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a138">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a139">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a140">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_swe">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts177">
+                <ANNOTATION_VALUE>brytare inte kan gå straffria Tack tack för Nej då kör</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>metall men jag ska fatta mig väldigt kort jag vill bara tacka alla som har bidragit i debatten och jag måste också säga att alla de som arbetar</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>internationella krigsförbrytartribunalen och samarbete där tidigare de har visat väldigt stark vilja att åstadkomma saker och ting Och det därför som vi har också öppnat så mycket tack</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts149">
+                <ANNOTATION_VALUE>debatten därmed avslutad notering kom att äga rum i morgon</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>0.78266108</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>0.85778922</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a153">
+                <ANNOTATION_VALUE>0.87496799</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a154">
+                <ANNOTATION_VALUE>0.64328504</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a153">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a154">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_cze">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>neproběhnou nepotrestán a děkuji Děkuji vám pane komisaři paní Nights paní zpravodajka děkuji paní předsedající a budu velmi stručná já se poděkovat všem kteří se zúčastnili této debaty a chci jen říct že jsem měla</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>za to že všichni kdo pracovali že pracuji pro mezinárodní trestní tribunál a pracují s velkým nasazením to je něco to se zřídkakdy vidí a pro mě to bylo velkým potěšením toto sledovat A</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>proto jsem i vlastně tyhle návrhy zpracovala takže jsem těch důvodu měla hned několik Ano děkuji vám debata je ukončena a a další se bude</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a163">
+                <ANNOTATION_VALUE>0.88150644</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a164">
+                <ANNOTATION_VALUE>0.90073997</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a165">
+                <ANNOTATION_VALUE>0.91049886</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a163">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a164">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a165">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_est">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a172" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>ette you'll võimalike karistamatuse sõjakuritegude osas suur tänu sõna raportööri lühidalt ma tahan tänada kõiki kes selles diskussioonis osalesid ning ma ütlen ette</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>tööl tööpuudust ma toetan kõiki kes on töötanud rahvusvahelises kriminaalkohtus või selle praegu töötavad äärmiselt ühendatud inimesed niisugust pühendumist näeb harva ja tõepoolest</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a174" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>nendega koostöö on äärmiselt tervem meeldiv olnud sellepärast ma tulingi välja niisuguse ettepanekuga</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a175" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>nüüd on siis see antud arutelu lõppenud hääletus toimub homme</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a172">
+                <ANNOTATION_VALUE>0.85409838</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>0.92931986</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a174">
+                <ANNOTATION_VALUE>0.90437865</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a175">
+                <ANNOTATION_VALUE>0.94653285</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a172">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a174">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a175">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lav">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>varenu kara noziegumiem pastāv lenta die scene is un drudzi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a185" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>paldies priekšsēdētājas kundze</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>netaisos tiešām pavisam īsti gribu pateikties visiem kas man tev ieguldīju žēl ss.com</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a187" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>cik gribu teikt ka visi strādā dažāda tribunālā algas riga nestrādājoši bedrē tiešām tāda apņēmības pakāpe kā turēties mirku redzējis un netiešā runa un bizness un gandarījums to konstatēt un</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a188" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>rostova dibinātiem atnāk vaļā no šiem tiešajiem paldies</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a189" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>debates par šo jautājumu un balsojums notiks rīt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a184">
+                <ANNOTATION_VALUE>0.71387923</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a185">
+                <ANNOTATION_VALUE>0.89419955</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a186">
+                <ANNOTATION_VALUE>0.83796346</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a187">
+                <ANNOTATION_VALUE>0.80470163</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a188">
+                <ANNOTATION_VALUE>0.5915997</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a189">
+                <ANNOTATION_VALUE>0.8837356</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a184">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a185">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a186">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a187">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a188">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a189">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lit">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a202" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>elektros gedimas</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a203" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>pirmininkė labai trumpai norėčiau padėkoti visiems prisidėjusiems prie diskusijos pažymėti kad</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a204" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Kas dirba Ar dirbo rašinėtis tribunole</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a205" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE>dirba aistringai Ir nuoširdžiai retai Kur toks atsidavimas darbui yra sutinkamas Tai yra tikrai papildoma priežastis kalbėti apie ir pateikti šiuos pasiūlymus Ačiū</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a206" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts153">
+                <ANNOTATION_VALUE>pirmininkė baigėme diskusija balsavimas Lietuvoje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a202">
+                <ANNOTATION_VALUE>0.50392115</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a203">
+                <ANNOTATION_VALUE>0.89004534</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a204">
+                <ANNOTATION_VALUE>0.71975851</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a205">
+                <ANNOTATION_VALUE>0.85754389</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a206">
+                <ANNOTATION_VALUE>0.66229707</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a202">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a203">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a204">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a205">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a206">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_hun">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a217" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>mandátumát hogy nem engedhetjük meg hogy büntetlenül maradjanak a háborús bűnöket elkövető Köszönöm nászasszony Köszönöm szépen elnökasszony nagyon röviden csak szeretnék mindenkinek köszönetet mondani aki hozzájárult a vitához és annyit szeretnék még mondani hogy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a218" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>aki a nemzetközi törvényszéken dolgozott hogy együttműködött az az ezen munkatársak között olyan elkötelezettséget tapasztalhattam amely ettől nem igazán lehetett máshol tapasztalni úgyhogy ennek nagyon örültem Köszönöm szépen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a219" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts109">
+                <ANNOTATION_VALUE>állok a vitát lezárom</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a220" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts123">
+                <ANNOTATION_VALUE>A szavazásról holnap kerül sor</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a217">
+                <ANNOTATION_VALUE>0.91619194</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a218">
+                <ANNOTATION_VALUE>0.9106127</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a219">
+                <ANNOTATION_VALUE>0.79006964</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a220">
+                <ANNOTATION_VALUE>0.83799541</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a217">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a218">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a219">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a220">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_mlt">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a229" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a231" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a232" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts91">
+                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a233" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a236" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a237" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a238" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts155">
+                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_confidence">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_is_translation">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_pol">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a239" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>dla zbrodni wojennych przyszłości Dziękuję bardzo mi pani przewodnicząca pani</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a240" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Dziękuję bardzo bardzo krótko chciałabym serdecznie podziękować wszystkim którzy w dyskusji Chciałbym również powiedzieć że stwierdziłam że wszyscy pracują</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a241" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>stwierdziłam że są to sobie ogromnie poświęcone swojej pracy rzadko dlatego że muszę przygotować to sprawozdanie bardzo dziękuję</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a242" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>Dziękuję na tym zamykamy debatę głosowanie odbędzie się w dniu jutrzejszym</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a239">
+                <ANNOTATION_VALUE>0.94551438</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a240">
+                <ANNOTATION_VALUE>0.79438788</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a241">
+                <ANNOTATION_VALUE>0.82745767</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a242">
+                <ANNOTATION_VALUE>0.96341127</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a239">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a240">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a249" ANNOTATION_REF="a241">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a242">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slo">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a251" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts167">
+                <ANNOTATION_VALUE>prípadov aby skutočne neprichádzalo v nejakej beztrestnosti v posteli vojnové zločiny</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a252" TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Ďakujem za slovo pani predsedajúca Budem veľmi a stručná tak aby som tam poďakovať všetkým tým ktorí prispeli K tejto rozprávke a skutočne môžem povedať</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Každý kto pracoval s medzinárodným súdnym tribunálom naozaj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a254" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts157">
+                <ANNOTATION_VALUE>videl a obrovskú oddanosť obrovskú zaangažovať ktorou sa človek zriedkakedy stretáva na iných miestach A práve preto pre mňa bolo veľkou radosťou predkladať tieto návrhy veľmi pekne ďakujeme hovorí pani predsedajúca týmto ukončíme rozprávok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a255" ANNOTATION_REF="a251">
+                <ANNOTATION_VALUE>0.80706847</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a252">
+                <ANNOTATION_VALUE>0.90410024</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a253">
+                <ANNOTATION_VALUE>0.93481553</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a254">
+                <ANNOTATION_VALUE>0.88767576</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a251">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a252">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a253">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a254">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slv">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts113">
+                <ANNOTATION_VALUE>ne bodo ostali nekaznovani hvala hvala gospa naj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a264" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts175">
+                <ANNOTATION_VALUE>pajnkiher</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a265" TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>excel hvala k85 sodelavci zelo kratka bom rada bi se zahvalila vsem ki so prispevali v razpravi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a266" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>in zdi se mi da</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a267" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>pusti ki delajo na tem sodišču ali ki so sodelovali s tem sodiščem ker se mi zdi da so z zvezdami zelo predani in kaj takega se redko vidim</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a268" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts107">
+                <ANNOTATION_VALUE>sodelovanje mi je bilo zato velik užitek je in to je bil še boljši razred zakaj sem predlagala da se delo nadaljuje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a269" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>hvala z delajo da je končana glasovanje pa bo potekalo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a270" ANNOTATION_REF="a263">
+                <ANNOTATION_VALUE>0.82892442</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a271" ANNOTATION_REF="a264">
+                <ANNOTATION_VALUE>0.50686824</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a265">
+                <ANNOTATION_VALUE>0.8157897</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a273" ANNOTATION_REF="a266">
+                <ANNOTATION_VALUE>0.92843723</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a274" ANNOTATION_REF="a267">
+                <ANNOTATION_VALUE>0.88755602</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a275" ANNOTATION_REF="a268">
+                <ANNOTATION_VALUE>0.83948332</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a276" ANNOTATION_REF="a269">
+                <ANNOTATION_VALUE>0.77561951</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a277" ANNOTATION_REF="a263">
+                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a278" ANNOTATION_REF="a264">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a279" ANNOTATION_REF="a265">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a266">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a281" ANNOTATION_REF="a267">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a268">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a283" ANNOTATION_REF="a269">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_bul">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a284" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>наказано свършвай извършителите на Военни престъпления в бъдеще госпожа Не сега моля</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a285" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>утре да сложа председател ще бъде съвсем кака искам да Благодаря на всички които допринесоха за тази дебати Искам да кажа че още навих че с</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a286" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>че всички които работят в Международния наказателен трибунал и които са работили за Международния наказателен трибунал Може да се каже че това са хора които са изключително</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts159">
+                <ANNOTATION_VALUE>квалифицирани и посветени на своята работа и беше изключително удоволствие да работя с тях благодаря Затова приключваме дебата по тази точка гласуването ще се проведе утре</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a284">
+                <ANNOTATION_VALUE>0.84517246</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a289" ANNOTATION_REF="a285">
+                <ANNOTATION_VALUE>0.84904015</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a286">
+                <ANNOTATION_VALUE>0.88256544</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a287">
+                <ANNOTATION_VALUE>0.91385877</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a284">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a285">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a294" ANNOTATION_REF="a286">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a295" ANNOTATION_REF="a287">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_corrected_by">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_rum">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a296" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>impunitate de privește crimele de război viitor Mulțumesc doamna Knights Vă mulțumesc</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a297" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>Am descoperit că toți cei care lucrează în cadrul Tribunalului penal internațional sau au lucrat la un moment dat în acest cadru au dat dovadă de un angajament ieșit din comun și am fost deosebit de încântată de lucrul acesta și acest lucru ma determinat să aduc aceste propuneri</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a298" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>mă mulțumesc dezbaterea sa încheiat</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a299" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>votul va avea loc mâine</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a296">
+                <ANNOTATION_VALUE>0.72849947</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a297">
+                <ANNOTATION_VALUE>0.90836227</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a298">
+                <ANNOTATION_VALUE>0.87046278</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a299">
+                <ANNOTATION_VALUE>0.93980396</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_is_translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a296">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a305" ANNOTATION_REF="a297">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a298">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a307" ANNOTATION_REF="a299">
+                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_corrected_by">
+        </TIER>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="corrected_by" TIME_ALIGNABLE="false" />
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>
