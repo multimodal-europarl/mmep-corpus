@@ -1,599 +1,599 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-11-11T00:30:08+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
-    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/VODUnit_20080923_21170100_21171300.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./VODUnit_20080923_21170100_21171300.mp4"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_2_eng_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_2_eng_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_3_fra_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_3_fra_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_4_ger_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_4_ger_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_5_ita_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_5_ita_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_6_spa_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_6_spa_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_7_gre_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_7_gre_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_8_por_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_8_por_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_9_dut_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_9_dut_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_10_dan_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_10_dan_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_11_fin_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_11_fin_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_12_swe_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_12_swe_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_13_cze_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_13_cze_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_14_est_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_14_est_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_15_lav_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_15_lav_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_16_lit_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_16_lit_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_17_hun_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_17_hun_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_18_mlt_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_18_mlt_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_19_pol_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_19_pol_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_20_slo_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_20_slo_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_21_slv_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_21_slv_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_22_bul_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_22_bul_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_23_rum_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_23_rum_VODUnit_20080923_21170100_21171300.mp3"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_1_und_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_1_und_VODUnit_20080923_21170100_21171300.mp3"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2bb01589-bf3d-4141-871d-8f31be10fd9b</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">73</PROPERTY>
-    </HEADER>
-    <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="1970"/>
-        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="1970"/>
-        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="2000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="2000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="2930"/>
-        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="3170"/>
-        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="3180"/>
-        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="3870"/>
-        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="4110"/>
-        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="5990"/>
-        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="8900"/>
-        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="8920"/>
-        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="9240"/>
-        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="9580"/>
-        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="11430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="11430"/>
-    </TIME_ORDER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_eng"/>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_confidence"/>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_is_translation"/>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fra">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts27">
-                <ANNOTATION_VALUE>merci beaucoup Monsieur le Commissaire les orateurs on s'écrit mais maintenant nom de leur groupe commençant par le cou</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>0.8455354</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ger">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>merci BOKU Monsieur Gummibären vielen Dank dann können wir es ja jetzt die Redner im Namen ihrer Fraktionen Hermann Disco für die EVP</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>0.89288038</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ita">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts31">
-                <ANNOTATION_VALUE>relazione dell'onorevole quello grazie grazie con il serie gli oratori parlano a nome del gruppo proprio politico comincio ad andare</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a7">
-                <ANNOTATION_VALUE>0.93882799</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a7">
-                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_spa">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>y aprobado el información del cuello muchas gracias señor Comisario ahora los celadores en nombre los grupos escudos minutos</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>0.89010471</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_gre">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts33">
-                <ANNOTATION_VALUE>Ευχαριστούμε πολύ επίτροπε και τώρα οι ομιλητές εκ μέρους των ομάδων εκ μέρους του ελκ ο κύριος μαρίνες που για δύο</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a13">
-                <ANNOTATION_VALUE>0.86008102</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a13">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_por">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts21">
-                <ANNOTATION_VALUE>mestre Goku</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE>Obrigado pelo comentário para os moradores Em Nome do grupo não se machucou PP de Marinês 2 minutos</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>0.84084034</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>0.93722653</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dut">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts35">
-                <ANNOTATION_VALUE>helemaal in orde dankjewel dankjewel nu hebben we de volgende sprekers het nou van de Praxis en beginnen met eten</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a22">
-                <ANNOTATION_VALUE>0.9124862</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a22">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dan">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>Jeg vil gerne få dig til at blive bedre til at kunne jeres betænkning gummistøvler til så højttalere Bonsai a Marie Jeg skulle først på pizza sang</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a25">
-                <ANNOTATION_VALUE>0.85797083</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a25">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fin">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts37">
-                <ANNOTATION_VALUE>Mexico kiitokset arvoisa komissaari seuraavaksi ryhmien puhujat Aloitamme pvl herra Marimekko kaivo</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a28">
-                <ANNOTATION_VALUE>0.71397454</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a28">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_swe">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts38">
-                <ANNOTATION_VALUE>Mexico talmannen Tack så mycket för det här bara då då kommer vi till gruppen att tala det att vi börjar med p hade Marlene 22 minuter Varsågod</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a31">
-                <ANNOTATION_VALUE>0.85552472</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a31">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_cze">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts29">
-                <ANNOTATION_VALUE>Děkuji vám pane komisaři nyní budou hovořit mluvčí paní marinescu</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a34">
-                <ANNOTATION_VALUE>0.88166541</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a34">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_est">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts23">
-                <ANNOTATION_VALUE>auto24</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts39">
-                <ANNOTATION_VALUE>suur tänu suur tänu nüüd algavad sõnavõtud fraktsioonide nimel</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a37">
-                <ANNOTATION_VALUE>0.5413152</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a38">
-                <ANNOTATION_VALUE>0.93829656</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a37">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a38">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lav">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>miera devis savu ieguldījumu lai nodrošinātu šo mani no pasākuma viesi paldies uzvarētājs un daļas otro grupu vārdā istabā kad vēlies lietot pa</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a43">
-                <ANNOTATION_VALUE>0.86044699</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a43">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lit">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>aš čia Tikiuosi kad patvirtintas planas kurio pranešimas</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts41">
-                <ANNOTATION_VALUE>O tai Kaip gaminti naudoja komisarė dabar kalbėtojai raktų</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a46">
-                <ANNOTATION_VALUE>0.78827059</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a47">
-                <ANNOTATION_VALUE>0.51833171</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a46">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a47">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_hun">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts42">
-                <ANNOTATION_VALUE>alig például prokarióta egy két hónapot a szurkoló direkt írta énnekem A félszemű Group Italy</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a52">
-                <ANNOTATION_VALUE>0.72236049</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a52">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_mlt">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts43">
-                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_confidence"/>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_is_translation"/>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_pol">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts25">
-                <ANNOTATION_VALUE>pana Corela</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts44">
-                <ANNOTATION_VALUE>Teraz po prostu startowe poetycki Skupin</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a56">
-                <ANNOTATION_VALUE>0.70999789</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a57">
-                <ANNOTATION_VALUE>0.79179734</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a56">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a57">
-                <ANNOTATION_VALUE>True RB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slo">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts45">
-                <ANNOTATION_VALUE>viktóriin nakupujem dinoporn osoby asi odporučilo Hospoda kojenie alebo spodkom nechcela dobré prajem len na dovolenke tvoje meno poriešim skupinku spoznať neschudla meno</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a62">
-                <ANNOTATION_VALUE>0.86627287</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a62">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slv">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts46">
-                <ANNOTATION_VALUE>grafik in podrobnosti tega predložen je to ne boš mcl zobozdravnik</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a65">
-                <ANNOTATION_VALUE>0.64347726</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a65">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_bul">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts28">
-                <ANNOTATION_VALUE>мести борсова adamla kommissar ораторите вървиш ли малко бе Румене група ли вече</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a68">
-                <ANNOTATION_VALUE>0.84783256</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a68">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_corrected_by"/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_rum">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>Mersi beaucoup meciuri cu misterul ziua spectiv</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a71">
-                <ANNOTATION_VALUE>0.59619755</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a71">
-                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_corrected_by"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="corrected_by" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
-    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
-    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
-    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
-    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-11-11T00:30:08+01:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+  <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/VODUnit_20080923_21170100_21171300.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./VODUnit_20080923_21170100_21171300.mp4"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_2_eng_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_2_eng_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_3_fra_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_3_fra_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_4_ger_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_4_ger_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_5_ita_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_5_ita_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_6_spa_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_6_spa_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_7_gre_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_7_gre_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_8_por_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_8_por_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_9_dut_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_9_dut_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_10_dan_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_10_dan_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_11_fin_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_11_fin_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_12_swe_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_12_swe_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_13_cze_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_13_cze_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_14_est_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_14_est_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_15_lav_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_15_lav_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_16_lit_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_16_lit_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_17_hun_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_17_hun_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_18_mlt_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_18_mlt_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_19_pol_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_19_pol_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_20_slo_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_20_slo_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_21_slv_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_21_slv_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_22_bul_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_22_bul_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_23_rum_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_23_rum_VODUnit_20080923_21170100_21171300.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/leGarcon/mnt/cg8_4tb/Europarl/Europarl_corpus/corpus/VODUnit_20080923_21170100_21171300/_1_und_VODUnit_20080923_21170100_21171300.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./_1_und_VODUnit_20080923_21170100_21171300.mp3"/>
+    <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2bb01589-bf3d-4141-871d-8f31be10fd9b</PROPERTY>
+    <PROPERTY NAME="lastUsedAnnotationId">73</PROPERTY>
+  </HEADER>
+  <TIME_ORDER>
+    <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="1970"/>
+    <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="1970"/>
+    <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="2000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="2000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="2930"/>
+    <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="3170"/>
+    <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="3180"/>
+    <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="3870"/>
+    <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="4110"/>
+    <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="5990"/>
+    <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="8900"/>
+    <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="8920"/>
+    <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="9240"/>
+    <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="9580"/>
+    <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="11430"/>
+    <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="11430"/>
+  </TIME_ORDER>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_eng"/>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_confidence"/>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_is_translation"/>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fra">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-9ssqXSUf7VUu3hQ8L6d2fo" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts27">
+        <ANNOTATION_VALUE>merci beaucoup Monsieur le Commissaire les orateurs on s'écrit mais maintenant nom de leur groupe commençant par le cou</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-T1E56GLigdmNp1N1jjtJkh" ANNOTATION_REF="i-9ssqXSUf7VUu3hQ8L6d2fo">
+        <ANNOTATION_VALUE>0.8455354</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-JbAP5cp5SNJM95gcx3u4Vh" ANNOTATION_REF="i-9ssqXSUf7VUu3hQ8L6d2fo">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ger">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-BFuvcvLtAmuvL8aeJTKpp4" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts30">
+        <ANNOTATION_VALUE>merci BOKU Monsieur Gummibären vielen Dank dann können wir es ja jetzt die Redner im Namen ihrer Fraktionen Hermann Disco für die EVP</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-WtxvbRNeYZ1A94P2Z3JLtx" ANNOTATION_REF="i-BFuvcvLtAmuvL8aeJTKpp4">
+        <ANNOTATION_VALUE>0.89288038</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-FsUoZr1aqikeQ44x5CEaYG" ANNOTATION_REF="i-BFuvcvLtAmuvL8aeJTKpp4">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ita">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-CCpj54ZQozcVe7baCKbhju" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts31">
+        <ANNOTATION_VALUE>relazione dell'onorevole quello grazie grazie con il serie gli oratori parlano a nome del gruppo proprio politico comincio ad andare</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-9sbtJQ1ND13DvyoWwnR6ou" ANNOTATION_REF="i-CCpj54ZQozcVe7baCKbhju">
+        <ANNOTATION_VALUE>0.93882799</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-X9jKSa7mFKoV2gbCxCULyv" ANNOTATION_REF="i-CCpj54ZQozcVe7baCKbhju">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_spa">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-51Usgh5gwfxcoWGjgEwcE7" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts32">
+        <ANNOTATION_VALUE>y aprobado el información del cuello muchas gracias señor Comisario ahora los celadores en nombre los grupos escudos minutos</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-SBFWNqMG9cV3Z8z8kLBFnK" ANNOTATION_REF="i-51Usgh5gwfxcoWGjgEwcE7">
+        <ANNOTATION_VALUE>0.89010471</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-CurjWU2bxD5bBV3HrVZ9ed" ANNOTATION_REF="i-51Usgh5gwfxcoWGjgEwcE7">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_gre">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-Mq9fbppwBXBNfDng2H1uEV" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts33">
+        <ANNOTATION_VALUE>Ευχαριστούμε πολύ επίτροπε και τώρα οι ομιλητές εκ μέρους των ομάδων εκ μέρους του ελκ ο κύριος μαρίνες που για δύο</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-8dy8Rj7JxudjCmAZ7k7Top" ANNOTATION_REF="i-Mq9fbppwBXBNfDng2H1uEV">
+        <ANNOTATION_VALUE>0.86008102</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-NAD1jPSXkxdFzhzD6kSg7b" ANNOTATION_REF="i-Mq9fbppwBXBNfDng2H1uEV">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_por">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-DgQkhCUAp7D4Kq73phHtAk" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts21">
+        <ANNOTATION_VALUE>mestre Goku</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-DgB22Dq8qkeCW3y4VRc1Kc" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts34">
+        <ANNOTATION_VALUE>Obrigado pelo comentário para os moradores Em Nome do grupo não se machucou PP de Marinês 2 minutos</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-5w2mMZGysZ4pPpV9WBxGmJ" ANNOTATION_REF="i-DgQkhCUAp7D4Kq73phHtAk">
+        <ANNOTATION_VALUE>0.84084034</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Tdd18Av5DhpcdZNEaCDmTx" ANNOTATION_REF="i-DgB22Dq8qkeCW3y4VRc1Kc">
+        <ANNOTATION_VALUE>0.93722653</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Fs1DnzLuMp5G8BhJA1whnv" ANNOTATION_REF="i-DgQkhCUAp7D4Kq73phHtAk">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-EiH35PHgVGe1sdrobiRmZP" ANNOTATION_REF="i-DgB22Dq8qkeCW3y4VRc1Kc">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dut">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-8v9qcBeGzbUifVZ7eggXs8" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts35">
+        <ANNOTATION_VALUE>helemaal in orde dankjewel dankjewel nu hebben we de volgende sprekers het nou van de Praxis en beginnen met eten</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Ta692p22etT2huHKPLMuV7" ANNOTATION_REF="i-8v9qcBeGzbUifVZ7eggXs8">
+        <ANNOTATION_VALUE>0.9124862</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-MQVEbkPzMuyMmrayoMFe3p" ANNOTATION_REF="i-8v9qcBeGzbUifVZ7eggXs8">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dan">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-ATue8GgyufQvQDyHufvZA5" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts36">
+        <ANNOTATION_VALUE>Jeg vil gerne få dig til at blive bedre til at kunne jeres betænkning gummistøvler til så højttalere Bonsai a Marie Jeg skulle først på pizza sang</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Ln4pG7ZJc1cVxCxxmXn4RA" ANNOTATION_REF="i-ATue8GgyufQvQDyHufvZA5">
+        <ANNOTATION_VALUE>0.85797083</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-H7626HGZNEtjjwcxATFW4W" ANNOTATION_REF="i-ATue8GgyufQvQDyHufvZA5">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fin">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-Kpv7i9BjkvpQjxzxT4se43" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts37">
+        <ANNOTATION_VALUE>Mexico kiitokset arvoisa komissaari seuraavaksi ryhmien puhujat Aloitamme pvl herra Marimekko kaivo</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-BRgBbSoBfS3TtCE7DKtdeR" ANNOTATION_REF="i-Kpv7i9BjkvpQjxzxT4se43">
+        <ANNOTATION_VALUE>0.71397454</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-QZTCcGcopkxZGqqZCiXUSL" ANNOTATION_REF="i-Kpv7i9BjkvpQjxzxT4se43">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_swe">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-SUJ8Qe5CEf7i6M5dtNpA57" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts38">
+        <ANNOTATION_VALUE>Mexico talmannen Tack så mycket för det här bara då då kommer vi till gruppen att tala det att vi börjar med p hade Marlene 22 minuter Varsågod</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-HtLyFTRR8EyS5gh6ECmwVV" ANNOTATION_REF="i-SUJ8Qe5CEf7i6M5dtNpA57">
+        <ANNOTATION_VALUE>0.85552472</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-DMt5eqaDte1QNdZhDTgT9o" ANNOTATION_REF="i-SUJ8Qe5CEf7i6M5dtNpA57">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_cze">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-KWRv4MnZyobQK4tEiEM2wN" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts29">
+        <ANNOTATION_VALUE>Děkuji vám pane komisaři nyní budou hovořit mluvčí paní marinescu</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-MdHNEBef7YDdN2xfFyUVJc" ANNOTATION_REF="i-KWRv4MnZyobQK4tEiEM2wN">
+        <ANNOTATION_VALUE>0.88166541</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-TpkLb9fMZk4ev18TXubTyZ" ANNOTATION_REF="i-KWRv4MnZyobQK4tEiEM2wN">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_est">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-GWr1nQvqJnFGcbAeiEGf3p" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts23">
+        <ANNOTATION_VALUE>auto24</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-HeV35FxbD44ZwKUFsDtwiF" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts39">
+        <ANNOTATION_VALUE>suur tänu suur tänu nüüd algavad sõnavõtud fraktsioonide nimel</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-VjFn5giKy1ApHFGCAaTuK6" ANNOTATION_REF="i-GWr1nQvqJnFGcbAeiEGf3p">
+        <ANNOTATION_VALUE>0.5413152</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-QCWjFHziHdQHrVHV8hFFRZ" ANNOTATION_REF="i-HeV35FxbD44ZwKUFsDtwiF">
+        <ANNOTATION_VALUE>0.93829656</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-D1XxXAQ84xzzNyME9q9zAZ" ANNOTATION_REF="i-GWr1nQvqJnFGcbAeiEGf3p">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-M1N3CZKHDRi4MubLaacEjc" ANNOTATION_REF="i-HeV35FxbD44ZwKUFsDtwiF">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lav">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-PiAnEESrAncbi4LK6CkSBi" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts40">
+        <ANNOTATION_VALUE>miera devis savu ieguldījumu lai nodrošinātu šo mani no pasākuma viesi paldies uzvarētājs un daļas otro grupu vārdā istabā kad vēlies lietot pa</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-e9mrSCRihCkJ6XUYR5G4h" ANNOTATION_REF="i-PiAnEESrAncbi4LK6CkSBi">
+        <ANNOTATION_VALUE>0.86044699</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-C2y2nsdUu3CexX4KQz3Zfp" ANNOTATION_REF="i-PiAnEESrAncbi4LK6CkSBi">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lit">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-CQNucy5DDdgE2WfYgvY8N5" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts24">
+        <ANNOTATION_VALUE>aš čia Tikiuosi kad patvirtintas planas kurio pranešimas</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-jq12kd5esqTLX2Vpaq7dp" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts41">
+        <ANNOTATION_VALUE>O tai Kaip gaminti naudoja komisarė dabar kalbėtojai raktų</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Exq1SaCKk8eQxM5JLEkrdq" ANNOTATION_REF="i-CQNucy5DDdgE2WfYgvY8N5">
+        <ANNOTATION_VALUE>0.78827059</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-VjcBtmkTYdUdA4vhQQDQ5E" ANNOTATION_REF="i-jq12kd5esqTLX2Vpaq7dp">
+        <ANNOTATION_VALUE>0.51833171</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-TVvCG3PA35aLgzarZwAq6b" ANNOTATION_REF="i-CQNucy5DDdgE2WfYgvY8N5">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-E7u1AtGokCLnKH7aB5xEfx" ANNOTATION_REF="i-jq12kd5esqTLX2Vpaq7dp">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_hun">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-DYFhjv2K74GcV4U8nxZ9px" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts42">
+        <ANNOTATION_VALUE>alig például prokarióta egy két hónapot a szurkoló direkt írta énnekem A félszemű Group Italy</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-KyYC6oUYE4ocZymjfRZFKk" ANNOTATION_REF="i-DYFhjv2K74GcV4U8nxZ9px">
+        <ANNOTATION_VALUE>0.72236049</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-84fiWtNKAySjimEntZfNd7" ANNOTATION_REF="i-DYFhjv2K74GcV4U8nxZ9px">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_mlt">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-XBtsjTA9Xe9tXJ1sZaPgow" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts43">
+        <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_confidence"/>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_is_translation"/>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_pol">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-Sn9M22kS94Go2RLrbGNeoh" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts25">
+        <ANNOTATION_VALUE>pana Corela</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-PttjzAke5LSsuTCUfTgf3" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts44">
+        <ANNOTATION_VALUE>Teraz po prostu startowe poetycki Skupin</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-6kK4KfmBQczorsJHSWUSey" ANNOTATION_REF="i-Sn9M22kS94Go2RLrbGNeoh">
+        <ANNOTATION_VALUE>0.70999789</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-XEcp7z8ZhxPyjsFcEkdaBu" ANNOTATION_REF="i-PttjzAke5LSsuTCUfTgf3">
+        <ANNOTATION_VALUE>0.79179734</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-8L24qmEfytoJmgVpXiBXoj" ANNOTATION_REF="i-Sn9M22kS94Go2RLrbGNeoh">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-W7eJJz9ciiqwM38qQVZ5nM" ANNOTATION_REF="i-PttjzAke5LSsuTCUfTgf3">
+        <ANNOTATION_VALUE>True RB</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slo">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-LbsLXs9ZfxPrjQdiyQ47V6" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts45">
+        <ANNOTATION_VALUE>viktóriin nakupujem dinoporn osoby asi odporučilo Hospoda kojenie alebo spodkom nechcela dobré prajem len na dovolenke tvoje meno poriešim skupinku spoznať neschudla meno</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-93k1ce8KYmMwRBZ2Aazn3W" ANNOTATION_REF="i-LbsLXs9ZfxPrjQdiyQ47V6">
+        <ANNOTATION_VALUE>0.86627287</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-R2vUugGM2mRnmxRe4Sf2yN" ANNOTATION_REF="i-LbsLXs9ZfxPrjQdiyQ47V6">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slv">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-LV1hTwUdXRzT3MoiSgwp1X" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts46">
+        <ANNOTATION_VALUE>grafik in podrobnosti tega predložen je to ne boš mcl zobozdravnik</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-MGFufqSTm7RDwsa2o2Nwvy" ANNOTATION_REF="i-LV1hTwUdXRzT3MoiSgwp1X">
+        <ANNOTATION_VALUE>0.64347726</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-AHuTLkJpujgHc3UzYhYLD4" ANNOTATION_REF="i-LV1hTwUdXRzT3MoiSgwp1X">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_bul">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-GpAhCnxRJFjRCdmuZxuRAw" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts28">
+        <ANNOTATION_VALUE>мести борсова adamla kommissar ораторите вървиш ли малко бе Румене група ли вече</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-6tF2BoFu2UYaG9Rfiryp14" ANNOTATION_REF="i-GpAhCnxRJFjRCdmuZxuRAw">
+        <ANNOTATION_VALUE>0.84783256</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-nQrsBs53s3WkdsJST7aDu" ANNOTATION_REF="i-GpAhCnxRJFjRCdmuZxuRAw">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_corrected_by"/>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_rum">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-HAJaqfuZkef5mShNwsZTdS" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts26">
+        <ANNOTATION_VALUE>Mersi beaucoup meciuri cu misterul ziua spectiv</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-4PYuondTkquDCWosn2kBq3" ANNOTATION_REF="i-HAJaqfuZkef5mShNwsZTdS">
+        <ANNOTATION_VALUE>0.59619755</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-So3FMCTkwrgFYEZFFfdEyn" ANNOTATION_REF="i-HAJaqfuZkef5mShNwsZTdS">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_corrected_by"/>
+  <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="corrected_by" TIME_ALIGNABLE="false"/>
+  <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+  <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+  <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+  <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+  <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
 </ANNOTATION_DOCUMENT>

@@ -1,979 +1,979 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2019-11-05T14:16:24+01:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
-    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/VODUnit_20090310_22113500_22115800.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="VODUnit_20090310_22113500_22115800.mp4" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_2_eng_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_2_eng_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_3_fra_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_3_fra_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_4_ger_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_4_ger_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_5_ita_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_5_ita_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_6_spa_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_6_spa_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_7_gre_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_7_gre_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_8_por_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_8_por_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_9_dut_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_9_dut_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_10_dan_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_10_dan_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_11_fin_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_11_fin_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_12_swe_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_12_swe_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_13_cze_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_13_cze_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_14_est_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_14_est_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_15_lav_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_15_lav_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_16_lit_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_16_lit_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_17_hun_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_17_hun_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_18_mlt_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_18_mlt_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_19_pol_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_19_pol_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_20_slo_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_20_slo_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_21_slv_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_21_slv_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_22_bul_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_22_bul_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_23_rum_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_23_rum_VODUnit_20090310_22113500_22115800.mp3" />
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_1_und_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_1_und_VODUnit_20090310_22113500_22115800.mp3" />
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2bb01589-bf3d-4141-871d-8f31be10fd9b</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">1</PROPERTY>
-    </HEADER>
-    <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="4019" />
-        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="6060" />
-        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="9480" />
-        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="9720" />
-        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="11840" />
-        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="7320" />
-        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="10400" />
-        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="12350" />
-        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="12960" />
-        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="16540" />
-        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="17110" />
-        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="5990" />
-        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="9140" />
-        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="18340" />
-        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="20170" />
-        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="8550" />
-        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="13950" />
-        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="15040" />
-        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="14830" />
-        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="6600" />
-        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="8500" />
-        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="10500" />
-        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="8890" />
-        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="11050" />
-        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="14050" />
-        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="18040" />
-        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="11870" />
-        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="10960" />
-        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="11550" />
-        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="22940" />
-        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="0" />
-        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="12210" />
-        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="22940" />
-    </TIME_ORDER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_eng">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts42">
-                <ANNOTATION_VALUE>individual speakers on Master Bachelor chair for one minute please I think the European Commission on this issue and organizations underlined several times it affect a huge amount</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>0.61265022</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_corrected_by">
+  <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/VODUnit_20090310_22113500_22115800.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="VODUnit_20090310_22113500_22115800.mp4"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_2_eng_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_2_eng_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_3_fra_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_3_fra_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_4_ger_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_4_ger_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_5_ita_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_5_ita_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_6_spa_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_6_spa_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_7_gre_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_7_gre_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_8_por_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_8_por_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_9_dut_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_9_dut_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_10_dan_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_10_dan_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_11_fin_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_11_fin_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_12_swe_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_12_swe_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_13_cze_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_13_cze_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_14_est_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_14_est_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_15_lav_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_15_lav_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_16_lit_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_16_lit_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_17_hun_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_17_hun_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_18_mlt_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_18_mlt_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_19_pol_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_19_pol_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_20_slo_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_20_slo_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_21_slv_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_21_slv_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_22_bul_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_22_bul_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_23_rum_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_23_rum_VODUnit_20090310_22113500_22115800.mp3"/>
+    <MEDIA_DESCRIPTOR MEDIA_URL="file:///mnt/cg8_4tb/Europarl/Europarl_corpus/quarantine/B/VODUnit_20090310_22113500_22115800/_1_und_VODUnit_20090310_22113500_22115800.mp3" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="_1_und_VODUnit_20090310_22113500_22115800.mp3"/>
+    <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2bb01589-bf3d-4141-871d-8f31be10fd9b</PROPERTY>
+    <PROPERTY NAME="lastUsedAnnotationId">1</PROPERTY>
+  </HEADER>
+  <TIME_ORDER>
+    <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="4019"/>
+    <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="6060"/>
+    <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="9480"/>
+    <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="9720"/>
+    <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="11840"/>
+    <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="7320"/>
+    <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="10400"/>
+    <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="12350"/>
+    <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="12960"/>
+    <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="16540"/>
+    <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="17110"/>
+    <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="5990"/>
+    <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="9140"/>
+    <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="18340"/>
+    <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="20170"/>
+    <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="8550"/>
+    <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="13950"/>
+    <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="15040"/>
+    <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="14830"/>
+    <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="6600"/>
+    <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="8500"/>
+    <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="10500"/>
+    <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="8890"/>
+    <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="11050"/>
+    <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="14050"/>
+    <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="18040"/>
+    <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="11870"/>
+    <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="10960"/>
+    <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="11550"/>
+    <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="22940"/>
+    <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="12210"/>
+    <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="22940"/>
+  </TIME_ORDER>
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_eng">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-ATohgV12c1NVV7hvyn8Bo2" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts42">
+        <ANNOTATION_VALUE>individual speakers on Master Bachelor chair for one minute please I think the European Commission on this issue and organizations underlined several times it affect a huge amount</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-MfzbkDWY782nmv3C141sYs" ANNOTATION_REF="i-ATohgV12c1NVV7hvyn8Bo2">
+        <ANNOTATION_VALUE>0.61265022</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-FRmxGjNVwkQte2KaZuZTSZ" ANNOTATION_REF="i-ATohgV12c1NVV7hvyn8Bo2">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fra">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts73">
-                <ANNOTATION_VALUE>les parents sont à sortir du problème pour le meilleur profit d'enfants</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts43">
-                <ANNOTATION_VALUE>je pars dans 2 minutes je t'en prie merci Madame la Présidente je crois que la Commission européenne devrait se concentrer sur cette question comme le mystère et d'autres organisations le nom souligne à plusieurs reprises là</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>0.88033104</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>0.92415804</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fra">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-MZaHPyC6vsT1RtaxV5tY8K" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts73">
+        <ANNOTATION_VALUE>les parents sont à sortir du problème pour le meilleur profit d'enfants</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-HWuHnc6jR1HYCQKicDNreU" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts43">
+        <ANNOTATION_VALUE>je pars dans 2 minutes je t'en prie merci Madame la Présidente je crois que la Commission européenne devrait se concentrer sur cette question comme le mystère et d'autres organisations le nom souligne à plusieurs reprises là</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-EDTeSYNnU6QBFwMsxwjTu6" ANNOTATION_REF="i-MZaHPyC6vsT1RtaxV5tY8K">
+        <ANNOTATION_VALUE>0.88033104</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Aw2hAawUSXd8ahpqpiDmPC" ANNOTATION_REF="i-HWuHnc6jR1HYCQKicDNreU">
+        <ANNOTATION_VALUE>0.92415804</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-6P1R4Wogp1UHaRKyzjMDT1" ANNOTATION_REF="i-MZaHPyC6vsT1RtaxV5tY8K">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-SY17pxBS8cutJCsn8WtzKp" ANNOTATION_REF="i-HWuHnc6jR1HYCQKicDNreU">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ger">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts74">
-                <ANNOTATION_VALUE>man darf die Eltern die da Arbeit suchen im Ausland nicht dämonisieren das ist meistens auch zugunsten der Kinder</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts44">
-                <ANNOTATION_VALUE>in meinen Armen sprechen herbaty logzio eine Minute danke schön Frau Präsidentin ich denke die Kommission sollte sich für dieser Thematik annehmen so wie UNICEF und andere Organisationen das schon mehr</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>0.87869382</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>0.88351166</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ger">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-7KdU1jbFcBz4d71T27xYCZ" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts74">
+        <ANNOTATION_VALUE>man darf die Eltern die da Arbeit suchen im Ausland nicht dämonisieren das ist meistens auch zugunsten der Kinder</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-He7JFMPm4VmvFPPTQz3ynx" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts44">
+        <ANNOTATION_VALUE>in meinen Armen sprechen herbaty logzio eine Minute danke schön Frau Präsidentin ich denke die Kommission sollte sich für dieser Thematik annehmen so wie UNICEF und andere Organisationen das schon mehr</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-BJZJ7DJajLh5xxUo4sYtBW" ANNOTATION_REF="i-7KdU1jbFcBz4d71T27xYCZ">
+        <ANNOTATION_VALUE>0.87869382</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-FCco27YWNxhGByVmkbMwwT" ANNOTATION_REF="i-He7JFMPm4VmvFPPTQz3ynx">
+        <ANNOTATION_VALUE>0.88351166</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-CohL5v4zFTH7umED6xk6EZ" ANNOTATION_REF="i-7KdU1jbFcBz4d71T27xYCZ">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-5KrhyBe8WMrQq5kqqG8tzp" ANNOTATION_REF="i-He7JFMPm4VmvFPPTQz3ynx">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ita">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts28">
-                <ANNOTATION_VALUE>e Qui invece di criminalizzare genitori che se ne vanno bisogna risolvere la questione perché lo fanno per risolvere i problemi dei loro figli onorevole battilocchio minuto</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts45">
-                <ANNOTATION_VALUE>Grazie signora Presidente penso che la Commissione Europea dovrebbe accentrare la propria attenzione su questo problema come è stato sottolineato in</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>0.9594658</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>0.97594053</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ita">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-4kZ8oDzsmaZwCxNz7ASkZW" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts28">
+        <ANNOTATION_VALUE>e Qui invece di criminalizzare genitori che se ne vanno bisogna risolvere la questione perché lo fanno per risolvere i problemi dei loro figli onorevole battilocchio minuto</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-Ap2SWz61xRvPsqeESCZAsh" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts45">
+        <ANNOTATION_VALUE>Grazie signora Presidente penso che la Commissione Europea dovrebbe accentrare la propria attenzione su questo problema come è stato sottolineato in</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-WTT1pNbFqh95B7ZqbmdiHn" ANNOTATION_REF="i-4kZ8oDzsmaZwCxNz7ASkZW">
+        <ANNOTATION_VALUE>0.9594658</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-8PhEWNDXLH95ADQMYAG56W" ANNOTATION_REF="i-Ap2SWz61xRvPsqeESCZAsh">
+        <ANNOTATION_VALUE>0.97594053</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-KCFVdsU2RZp4cjkaLuobhW" ANNOTATION_REF="i-4kZ8oDzsmaZwCxNz7ASkZW">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Sh4BeUEsbmpQ1ZaeLZf6TE" ANNOTATION_REF="i-Ap2SWz61xRvPsqeESCZAsh">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_spa">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts68">
-                <ANNOTATION_VALUE>y que en vez de demonizar a los padres que se desplazan al extranjero creo que habría que pensar que también existe esta otra parte de la</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts23">
-                <ANNOTATION_VALUE>i love you</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts46">
-                <ANNOTATION_VALUE>gracias creo que</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a22">
-                <ANNOTATION_VALUE>0.90367442</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a23">
-                <ANNOTATION_VALUE>0.8285585</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a24">
-                <ANNOTATION_VALUE>0.96399021</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a22">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a23">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a24">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_spa">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-JnkdFMT7oPTZb7vVGXrNJC" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts68">
+        <ANNOTATION_VALUE>y que en vez de demonizar a los padres que se desplazan al extranjero creo que habría que pensar que también existe esta otra parte de la</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-Ha7zzk38psvhxwDrKASwrP" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts23">
+        <ANNOTATION_VALUE>i love you</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-D6L4fkVwA8oBrDoWmgzFWb" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts46">
+        <ANNOTATION_VALUE>gracias creo que</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-YbGHPhde6B2Q91pmENXU9p" ANNOTATION_REF="i-JnkdFMT7oPTZb7vVGXrNJC">
+        <ANNOTATION_VALUE>0.90367442</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-9NPMLmxtLnxK1od81SApUi" ANNOTATION_REF="i-Ha7zzk38psvhxwDrKASwrP">
+        <ANNOTATION_VALUE>0.8285585</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-9ywzjKYNJ6aJ7rzFK3YmDb" ANNOTATION_REF="i-D6L4fkVwA8oBrDoWmgzFWb">
+        <ANNOTATION_VALUE>0.96399021</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-C4AoDcUQ41Z5K8mN2B7sMz" ANNOTATION_REF="i-JnkdFMT7oPTZb7vVGXrNJC">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-NmLz3Nwgixvbc3mbMmgzwT" ANNOTATION_REF="i-Ha7zzk38psvhxwDrKASwrP">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Uim7GCftnPH4j5ek4ZC3ic" ANNOTATION_REF="i-D6L4fkVwA8oBrDoWmgzFWb">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_gre">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>να μην δαιμονοποιούμε τους γονείς οι οποίοι μεταναστεύουν πρέπει μάλλον καλύτερα να κάνουμε από το να λύσουμε προβλήματα που αντιμετωπίζουν τα παιδιά ο κύριος Δίκιο έχει το λόγο για ένα λεπτό</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts47">
-                <ANNOTATION_VALUE>Ευχαριστώ πρόεδρε νομίζω Η Ευρωπαϊκή Επιτροπή θα πρέπει να επικεντρωθεί να δώσει μεγαλύτερη σημασία στο ζήτημα αυτό Πόσο πάει η Γιούλη σε φιάλη οργανισμοί επανειλημμένως</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a31">
-                <ANNOTATION_VALUE>0.86648679</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a32">
-                <ANNOTATION_VALUE>0.85729057</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a31">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a32">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_gre">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-4nM8ysj47soGFErjbhwDiX" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts32">
+        <ANNOTATION_VALUE>να μην δαιμονοποιούμε τους γονείς οι οποίοι μεταναστεύουν πρέπει μάλλον καλύτερα να κάνουμε από το να λύσουμε προβλήματα που αντιμετωπίζουν τα παιδιά ο κύριος Δίκιο έχει το λόγο για ένα λεπτό</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-NumtXYeAu5jWNdvTJNGvUY" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts47">
+        <ANNOTATION_VALUE>Ευχαριστώ πρόεδρε νομίζω Η Ευρωπαϊκή Επιτροπή θα πρέπει να επικεντρωθεί να δώσει μεγαλύτερη σημασία στο ζήτημα αυτό Πόσο πάει η Γιούλη σε φιάλη οργανισμοί επανειλημμένως</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Fx3L9MbcaKjLKaV4F5xeQd" ANNOTATION_REF="i-4nM8ysj47soGFErjbhwDiX">
+        <ANNOTATION_VALUE>0.86648679</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-B9mvgUcMjqTF6A9LNAhE5v" ANNOTATION_REF="i-NumtXYeAu5jWNdvTJNGvUY">
+        <ANNOTATION_VALUE>0.85729057</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-6nseXq9qGYtZhbtJVZgvjb" ANNOTATION_REF="i-4nM8ysj47soGFErjbhwDiX">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-8vdRUGhQYAPHMdSEgANGFP" ANNOTATION_REF="i-NumtXYeAu5jWNdvTJNGvUY">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_por">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts37">
-                <ANNOTATION_VALUE>não se der muitas vezes querem Muito obrigado muito obrigado por isso que comissão europeia deveria</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts48">
-                <ANNOTATION_VALUE>localizar nesta questão como a Unicef outros</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a37">
-                <ANNOTATION_VALUE>0.82392067</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a38">
-                <ANNOTATION_VALUE>0.85476428</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a37">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a38">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_por">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-CvMy33KxKvA3TZzQvdKcGB" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts37">
+        <ANNOTATION_VALUE>não se der muitas vezes querem Muito obrigado muito obrigado por isso que comissão europeia deveria</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-L8TQZ7PvFqjApdU9fM7DdW" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts48">
+        <ANNOTATION_VALUE>localizar nesta questão como a Unicef outros</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-GzUx6kfE6FvWb2kzSzA9Ed" ANNOTATION_REF="i-CvMy33KxKvA3TZzQvdKcGB">
+        <ANNOTATION_VALUE>0.82392067</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-7NdKQVSFuv1Mz2dW26FxAV" ANNOTATION_REF="i-L8TQZ7PvFqjApdU9fM7DdW">
+        <ANNOTATION_VALUE>0.85476428</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-8B4WANvMApgu9YA8eK2umP" ANNOTATION_REF="i-CvMy33KxKvA3TZzQvdKcGB">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-DX3a3cUgHBWBfvzToFcVbS" ANNOTATION_REF="i-L8TQZ7PvFqjApdU9fM7DdW">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dut">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts38">
-                <ANNOTATION_VALUE>het dat wij die ouders niet mogen demoniseren zij probeerde ook problemen parkeren op te wachten Dankjewel en dan de individuele sprekers mevrouw de voorzitter Dankuwel de Europese Commissie moet hier</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts49">
-                <ANNOTATION_VALUE>werk van maken Unicef en andere organisaties hebben dat al vaker onderstreept</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a43">
-                <ANNOTATION_VALUE>0.86608517</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a44">
-                <ANNOTATION_VALUE>0.94066864</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a43">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a44">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dut">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-8DDqRWbkXd9aGqCMM977oF" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts38">
+        <ANNOTATION_VALUE>het dat wij die ouders niet mogen demoniseren zij probeerde ook problemen parkeren op te wachten Dankjewel en dan de individuele sprekers mevrouw de voorzitter Dankuwel de Europese Commissie moet hier</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-4Qba6V2zw7wSfa1zfom2ER" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts49">
+        <ANNOTATION_VALUE>werk van maken Unicef en andere organisaties hebben dat al vaker onderstreept</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-bEBt79Po6ZtiQaGiUF6jT" ANNOTATION_REF="i-8DDqRWbkXd9aGqCMM977oF">
+        <ANNOTATION_VALUE>0.86608517</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-SHNnuREP2Gpv181YphNK68" ANNOTATION_REF="i-4Qba6V2zw7wSfa1zfom2ER">
+        <ANNOTATION_VALUE>0.94066864</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-PRq5RNmM7U9Fdq9HRrY75L" ANNOTATION_REF="i-8DDqRWbkXd9aGqCMM977oF">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-8aThmjc5eWoyEgT2qsUHFo" ANNOTATION_REF="i-4Qba6V2zw7wSfa1zfom2ER">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dan">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts65">
-                <ANNOTATION_VALUE>Anette for at skabe bedre forhold og bedre fremtid for børnene</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts72">
-                <ANNOTATION_VALUE>Mange tak</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>herpetolog Tak for formand Jeg mener at det går solen ned for børn produceret på det</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts50">
-                <ANNOTATION_VALUE>undertrøjer uden CO2</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a49">
-                <ANNOTATION_VALUE>0.82290018</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a50">
-                <ANNOTATION_VALUE>0.9484691</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a51">
-                <ANNOTATION_VALUE>0.88154781</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a52">
-                <ANNOTATION_VALUE>0.66177863</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a49">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a50">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a51">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a52">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dan">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-C7rA1SiGkuBJ2sRbChJ6mP" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts65">
+        <ANNOTATION_VALUE>Anette for at skabe bedre forhold og bedre fremtid for børnene</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-DNx9bHD3q4xbWkjuBGvLvw" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts72">
+        <ANNOTATION_VALUE>Mange tak</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-R6NQfJevM3gz3qMaPkjAuX" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts40">
+        <ANNOTATION_VALUE>herpetolog Tak for formand Jeg mener at det går solen ned for børn produceret på det</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-MEsRYvbDj7AUF481nMQdx5" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts50">
+        <ANNOTATION_VALUE>undertrøjer uden CO2</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Wy3SY8cdPzRfwKgX5FYctg" ANNOTATION_REF="i-C7rA1SiGkuBJ2sRbChJ6mP">
+        <ANNOTATION_VALUE>0.82290018</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-9CWv8fqyL4p7YuErtFCYtt" ANNOTATION_REF="i-DNx9bHD3q4xbWkjuBGvLvw">
+        <ANNOTATION_VALUE>0.9484691</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-8dtm5hKHwAYM8XStAAsRz3" ANNOTATION_REF="i-R6NQfJevM3gz3qMaPkjAuX">
+        <ANNOTATION_VALUE>0.88154781</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-5K3GhMcYVXEHgobf94AmUy" ANNOTATION_REF="i-MEsRYvbDj7AUF481nMQdx5">
+        <ANNOTATION_VALUE>0.66177863</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-EHjWkxRD7uxmABVrnwJWtR" ANNOTATION_REF="i-C7rA1SiGkuBJ2sRbChJ6mP">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-7x7qU2ex4yqDADEga9MY4m" ANNOTATION_REF="i-DNx9bHD3q4xbWkjuBGvLvw">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-2n37MRs7thjPfKu9a7q46d" ANNOTATION_REF="i-R6NQfJevM3gz3qMaPkjAuX">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-CbGowXa37g3yQWxc1izNLH" ANNOTATION_REF="i-MEsRYvbDj7AUF481nMQdx5">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fin">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE>silloin kun he yrittävät ratkaista näitä lastenohjelmat lapsen liittyviä</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts33">
-                <ANNOTATION_VALUE>sitten Pacino lotio 1 minuuttia</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts51">
-                <ANNOTATION_VALUE>Kiitoksia komission pitäisi keskittyä tähän kysymykseen Unicef ja muut järjestöt ovat monta kertaa korostaneet</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a61">
-                <ANNOTATION_VALUE>0.7116589</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a62">
-                <ANNOTATION_VALUE>0.50560403</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a63">
-                <ANNOTATION_VALUE>0.91222948</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a61">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a62">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a63">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fin">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-9aGtdU76Aj1n91UpuL3H75" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts70">
+        <ANNOTATION_VALUE>silloin kun he yrittävät ratkaista näitä lastenohjelmat lapsen liittyviä</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-XYNj3rPHgga7hnR5ba3jFH" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts33">
+        <ANNOTATION_VALUE>sitten Pacino lotio 1 minuuttia</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-GXtDHxRAJGk3BS6bBtyLZ" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts51">
+        <ANNOTATION_VALUE>Kiitoksia komission pitäisi keskittyä tähän kysymykseen Unicef ja muut järjestöt ovat monta kertaa korostaneet</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-PfrXAWHdjKrGwej2zSvRuW" ANNOTATION_REF="i-9aGtdU76Aj1n91UpuL3H75">
+        <ANNOTATION_VALUE>0.7116589</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-ExmKvjYuCGmKN9PqdpCmJa" ANNOTATION_REF="i-XYNj3rPHgga7hnR5ba3jFH">
+        <ANNOTATION_VALUE>0.50560403</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Fs1D7iJgRKkAZbTHgG9sXr" ANNOTATION_REF="i-GXtDHxRAJGk3BS6bBtyLZ">
+        <ANNOTATION_VALUE>0.91222948</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-7whSAUj3t1isVP9gk24Rks" ANNOTATION_REF="i-9aGtdU76Aj1n91UpuL3H75">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-JzGDCG1kivsSzerLuiXXzb" ANNOTATION_REF="i-XYNj3rPHgga7hnR5ba3jFH">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-LStmMbufc8FBR3iSL1NZhA" ANNOTATION_REF="i-GXtDHxRAJGk3BS6bBtyLZ">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_swe">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>Vi ska inte skylla på de föräldrar som har flyttat en minut Tack så mycket</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts52">
-                <ANNOTATION_VALUE>kommissionen borde verkligen fokusera Denna fråga ungefär från dagens ifrån upprepade gånger</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a70">
-                <ANNOTATION_VALUE>0.82086778</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a71">
-                <ANNOTATION_VALUE>0.7989158</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a70">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a71">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_swe">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-X2c8aBi671oWGVrPv2XcU3" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts36">
+        <ANNOTATION_VALUE>Vi ska inte skylla på de föräldrar som har flyttat en minut Tack så mycket</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-CArTBeDw2bKZpdiRNuGdAk" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts52">
+        <ANNOTATION_VALUE>kommissionen borde verkligen fokusera Denna fråga ungefär från dagens ifrån upprepade gånger</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Ra6rGgNDPBj9CArwLWdGXw" ANNOTATION_REF="i-X2c8aBi671oWGVrPv2XcU3">
+        <ANNOTATION_VALUE>0.82086778</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-SYB7zb5xGSMHHYEzLrxL94" ANNOTATION_REF="i-CArTBeDw2bKZpdiRNuGdAk">
+        <ANNOTATION_VALUE>0.7989158</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-4r2k5wDJ3MpW9SSYa1UkAS" ANNOTATION_REF="i-X2c8aBi671oWGVrPv2XcU3">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-5QGNq7c6gnQUSwBuUdeuBV" ANNOTATION_REF="i-CArTBeDw2bKZpdiRNuGdAk">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_cze">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts35">
-                <ANNOTATION_VALUE>takže mi tady možná trošku demonize mety Rodiče kteří se snaží stěhovat někam jinam a přitom Oni se snaží jenom zajistit lepší budoucnost pro jejich děti Děkuji a slova pan 21 minut a děkuji Vám paní předsedkyně</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts53">
-                <ANNOTATION_VALUE>Já si myslím že Evropská komise by se na tuto otázku měla zaměřit podobně jako Ulice Ulice</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a76">
-                <ANNOTATION_VALUE>0.90445608</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a77">
-                <ANNOTATION_VALUE>0.89860511</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a76">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a77">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_cze">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-6vnKfRfa8bFK5NBgcVYYH3" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts35">
+        <ANNOTATION_VALUE>takže mi tady možná trošku demonize mety Rodiče kteří se snaží stěhovat někam jinam a přitom Oni se snaží jenom zajistit lepší budoucnost pro jejich děti Děkuji a slova pan 21 minut a děkuji Vám paní předsedkyně</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-SSfHF52Nj6zH13M28yK3MV" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts53">
+        <ANNOTATION_VALUE>Já si myslím že Evropská komise by se na tuto otázku měla zaměřit podobně jako Ulice Ulice</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-TqYBbRSoJqMVzNVybBe2PF" ANNOTATION_REF="i-6vnKfRfa8bFK5NBgcVYYH3">
+        <ANNOTATION_VALUE>0.90445608</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Sy6x7y4UZ149er3huYmMWH" ANNOTATION_REF="i-SSfHF52Nj6zH13M28yK3MV">
+        <ANNOTATION_VALUE>0.89860511</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-8hXX55HtjHfgUqdy7Hzivm" ANNOTATION_REF="i-6vnKfRfa8bFK5NBgcVYYH3">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-EySs7hHTwDVWPuEegBjhQt" ANNOTATION_REF="i-SSfHF52Nj6zH13M28yK3MV">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_est">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts67">
-                <ANNOTATION_VALUE>me teenindame kuradi seisusesse enne lapsed kestnud vanemad kesla</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts54">
-                <ANNOTATION_VALUE>oled aga või peaks seda tegema surnu jää nüüd tööl saarineni määrati lokaal surganova president seerub avamise minu meelest peaks tööl küsimusele keskenduma nii nagu unicef-i aga teised organisatsioonid</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a82">
-                <ANNOTATION_VALUE>0.64895993</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a83">
-                <ANNOTATION_VALUE>0.83859181</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a82">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a83">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_est">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-3mmuyRtYL3FmwizWrAZatw" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts67">
+        <ANNOTATION_VALUE>me teenindame kuradi seisusesse enne lapsed kestnud vanemad kesla</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-XkW9RZkYEwXxZrafzbKSk2" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts54">
+        <ANNOTATION_VALUE>oled aga või peaks seda tegema surnu jää nüüd tööl saarineni määrati lokaal surganova president seerub avamise minu meelest peaks tööl küsimusele keskenduma nii nagu unicef-i aga teised organisatsioonid</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-W3fKp54JRQHW47BkDDYnsQ" ANNOTATION_REF="i-3mmuyRtYL3FmwizWrAZatw">
+        <ANNOTATION_VALUE>0.64895993</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-QHWQpEAFzZR2YwZuY6Pzja" ANNOTATION_REF="i-XkW9RZkYEwXxZrafzbKSk2">
+        <ANNOTATION_VALUE>0.83859181</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-MDcKemSTUzFJtbnfhjvcZN" ANNOTATION_REF="i-3mmuyRtYL3FmwizWrAZatw">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-AnDfQu4qseW9MxTEUcFBgX" ANNOTATION_REF="i-XkW9RZkYEwXxZrafzbKSk2">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lav">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts69">
-                <ANNOTATION_VALUE>nevajadzētu demonizēt vecākus kas pārceļas bet risināt viņu problēmas paldies</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts55">
-                <ANNOTATION_VALUE>individuāli runāt par to ar šo domu ka eiropas komisija varētu nopietni pievērsties šim jautājumam tāpat kā jonizē un citas organizācijas</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a88">
-                <ANNOTATION_VALUE>0.94074631</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a89">
-                <ANNOTATION_VALUE>0.87000728</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a88">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a89">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lav">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-LMpHN3HCZGrkfi7fc5YRwb" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts69">
+        <ANNOTATION_VALUE>nevajadzētu demonizēt vecākus kas pārceļas bet risināt viņu problēmas paldies</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-95JSajreoPBh9mdFBj8mZC" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts55">
+        <ANNOTATION_VALUE>individuāli runāt par to ar šo domu ka eiropas komisija varētu nopietni pievērsties šim jautājumam tāpat kā jonizē un citas organizācijas</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-TefJVTcyWjcmVKaLp3krcK" ANNOTATION_REF="i-LMpHN3HCZGrkfi7fc5YRwb">
+        <ANNOTATION_VALUE>0.94074631</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-X3c55VyzTNZjMbJvHFdfnn" ANNOTATION_REF="i-95JSajreoPBh9mdFBj8mZC">
+        <ANNOTATION_VALUE>0.87000728</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-MycQmXp6zXoA8msoGfy9Wr" ANNOTATION_REF="i-LMpHN3HCZGrkfi7fc5YRwb">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-B1NGGk3pVErT7CxDg6rUzg" ANNOTATION_REF="i-95JSajreoPBh9mdFBj8mZC">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lit">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>sudaryti geresnes sąlygas gyvenimas Anglijos savo vaikams turime padėti tiems vaikams kurie nori geriau rūpintis savo vaikais</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts56">
-                <ANNOTATION_VALUE>Aš manau kad Europos komisija turėtų atkreipti dėmesį į šį klausimą komisija ir kitos institucijos ne kartą</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a94">
-                <ANNOTATION_VALUE>0.90522027</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a95">
-                <ANNOTATION_VALUE>0.82361072</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a94">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a95">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lit">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-43WQ8FAYnpxKT38hsdys4w" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts24">
+        <ANNOTATION_VALUE>sudaryti geresnes sąlygas gyvenimas Anglijos savo vaikams turime padėti tiems vaikams kurie nori geriau rūpintis savo vaikais</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-NvguxkvhUvfCDJ2qWGpbMs" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts56">
+        <ANNOTATION_VALUE>Aš manau kad Europos komisija turėtų atkreipti dėmesį į šį klausimą komisija ir kitos institucijos ne kartą</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-HyozHEajbTuaC2oD35XDKR" ANNOTATION_REF="i-43WQ8FAYnpxKT38hsdys4w">
+        <ANNOTATION_VALUE>0.90522027</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-2gtKCVfafsKvVX8pjyz6dc" ANNOTATION_REF="i-NvguxkvhUvfCDJ2qWGpbMs">
+        <ANNOTATION_VALUE>0.82361072</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-MXp8VkSaBXAeepMBLuZ7cb" ANNOTATION_REF="i-43WQ8FAYnpxKT38hsdys4w">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Wa2TieKmrEwqgBuqB5ogu3" ANNOTATION_REF="i-NvguxkvhUvfCDJ2qWGpbMs">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_hun">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts71">
-                <ANNOTATION_VALUE>Tessék Nem szabad démonizálás van munkát vállaló szülőket akik ezt azért teszik hogy a gyermekek problémáját oldják meg</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts57">
-                <ANNOTATION_VALUE>battlelore egy percben Köszönöm elnökasszony szerintem az európai bizottságnak koncentráltan kell foglalkozni ezzel a kérdéssel az UNICEF</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a100">
-                <ANNOTATION_VALUE>0.83318549</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a101">
-                <ANNOTATION_VALUE>0.85576957</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a100">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a101">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_hun">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-2zsjQGCwS9bjeRdPT5iKQZ" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts71">
+        <ANNOTATION_VALUE>Tessék Nem szabad démonizálás van munkát vállaló szülőket akik ezt azért teszik hogy a gyermekek problémáját oldják meg</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-H8z7Z4UJZ5J6Uie8WbTEeJ" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts57">
+        <ANNOTATION_VALUE>battlelore egy percben Köszönöm elnökasszony szerintem az európai bizottságnak koncentráltan kell foglalkozni ezzel a kérdéssel az UNICEF</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-EQVRzwa239hxrgk2v6D31a" ANNOTATION_REF="i-2zsjQGCwS9bjeRdPT5iKQZ">
+        <ANNOTATION_VALUE>0.83318549</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-L8Mon2acLAWFztsGmgCf7R" ANNOTATION_REF="i-H8z7Z4UJZ5J6Uie8WbTEeJ">
+        <ANNOTATION_VALUE>0.85576957</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-CQyT5cEv3CRWwo8BfTU6mF" ANNOTATION_REF="i-2zsjQGCwS9bjeRdPT5iKQZ">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-28XDZhdV8ebPii1EQoTkDj" ANNOTATION_REF="i-H8z7Z4UJZ5J6Uie8WbTEeJ">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_mlt">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts58">
-                <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_confidence">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_mlt">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-BXrN1R3ddUMZ74j7eTc8g6" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts26">
+        <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-FwyLwumaysZxFSG8oPmmQE" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts34">
+        <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-GxLEgttBS1cXn5Yaxrvg9A" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts58">
+        <ANNOTATION_VALUE>Sorry, there's no speech to text support for mlt.</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_confidence">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_is_translation">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_pol">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts39">
-                <ANNOTATION_VALUE>tych rodziców którzy wyjeżdżają a przecież często czynią to dla dzieci dziękuję przez minutę Dziękuję bardzo pani przewodnicząca Myślę że Komisja Europejska powinna rzeczywiście skupić się</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts59">
-                <ANNOTATION_VALUE>ponieważ</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a109">
-                <ANNOTATION_VALUE>0.94446844</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a110">
-                <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a109">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a110">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_pol">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-Li7yn9rcbVnfxbHsjYd4XA" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts39">
+        <ANNOTATION_VALUE>tych rodziców którzy wyjeżdżają a przecież często czynią to dla dzieci dziękuję przez minutę Dziękuję bardzo pani przewodnicząca Myślę że Komisja Europejska powinna rzeczywiście skupić się</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-RJESnj4eEvNM2HYxq6qAcm" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts59">
+        <ANNOTATION_VALUE>ponieważ</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-W7Ho6ddq7WJcoPvRtSkqZq" ANNOTATION_REF="i-Li7yn9rcbVnfxbHsjYd4XA">
+        <ANNOTATION_VALUE>0.94446844</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-2XeBzksMeTnpoVf7F4cEoC" ANNOTATION_REF="i-RJESnj4eEvNM2HYxq6qAcm">
+        <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-8Bm5BHL4ZtDjLtE38eBCRV" ANNOTATION_REF="i-Li7yn9rcbVnfxbHsjYd4XA">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-NYsZyHrqj32oefBgTu4yhd" ANNOTATION_REF="i-RJESnj4eEvNM2HYxq6qAcm">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slo">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts29">
-                <ANNOTATION_VALUE>to že je zbytočné démonizovať rodičov ktorí sa odsťahujú pretože v podstate Oni sa snažila vyriešiť problém budúcnosti svojich detí Ďakujem A teraz jednotliví rečníci pán Vasil okio</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts60">
-                <ANNOTATION_VALUE>a ďakujem pekne pani predsedníčka pokračuje rečník Ja myslím že Európska komisia by sa naozaj mala zameriavať na túto záležitosť pretože Unicef a iné organizácie z dvora</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a115">
-                <ANNOTATION_VALUE>0.92358887</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a116">
-                <ANNOTATION_VALUE>0.8705222</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a115">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a116">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slo">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-Hp5wU8XAn1Ar3jW4sdpKiH" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts29">
+        <ANNOTATION_VALUE>to že je zbytočné démonizovať rodičov ktorí sa odsťahujú pretože v podstate Oni sa snažila vyriešiť problém budúcnosti svojich detí Ďakujem A teraz jednotliví rečníci pán Vasil okio</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-4Lip7gdtdDp7SPRBjmeHoY" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts60">
+        <ANNOTATION_VALUE>a ďakujem pekne pani predsedníčka pokračuje rečník Ja myslím že Európska komisia by sa naozaj mala zameriavať na túto záležitosť pretože Unicef a iné organizácie z dvora</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-8aQWXbY8TXRZvbsQM3GLWs" ANNOTATION_REF="i-Hp5wU8XAn1Ar3jW4sdpKiH">
+        <ANNOTATION_VALUE>0.92358887</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-DsJEvsUWTTy4BQSKegnj6G" ANNOTATION_REF="i-4Lip7gdtdDp7SPRBjmeHoY">
+        <ANNOTATION_VALUE>0.8705222</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Q4nVENsaJcrnqgLvzP2HGx" ANNOTATION_REF="i-Hp5wU8XAn1Ar3jW4sdpKiH">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-VnzCeDQsCXhZCba5hkr6id" ANNOTATION_REF="i-4Lip7gdtdDp7SPRBjmeHoY">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slv">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts25">
-                <ANNOTATION_VALUE>boljšo prihodnost v otroke skatka tukaj je moramo paziti da ne tehtaš one demon izbiramo hvala lepa sedaj posameznikov od tega</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts61">
-                <ANNOTATION_VALUE>pot bati nočjo najlepša hvala kdo predsedujoča gospa evrope bi se morala bolj posvetiti temu vprašanju kot je storil je united in tudi druge organizacij</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a121">
-                <ANNOTATION_VALUE>0.79755884</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a122">
-                <ANNOTATION_VALUE>0.91437453</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a121">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a122">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slv">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-LQjYVGFQq9WdaNkb9yEcwP" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts25">
+        <ANNOTATION_VALUE>boljšo prihodnost v otroke skatka tukaj je moramo paziti da ne tehtaš one demon izbiramo hvala lepa sedaj posameznikov od tega</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-AS7SWqBnYHaoKPcZ1FuQia" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts61">
+        <ANNOTATION_VALUE>pot bati nočjo najlepša hvala kdo predsedujoča gospa evrope bi se morala bolj posvetiti temu vprašanju kot je storil je united in tudi druge organizacij</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Ry3TPM5XctaHwNU4gHULyk" ANNOTATION_REF="i-LQjYVGFQq9WdaNkb9yEcwP">
+        <ANNOTATION_VALUE>0.79755884</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-PNb6eCmWucndnKFfEmvJGp" ANNOTATION_REF="i-AS7SWqBnYHaoKPcZ1FuQia">
+        <ANNOTATION_VALUE>0.91437453</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Nt6Jg7ryxXWdxkU1j5X2u5" ANNOTATION_REF="i-LQjYVGFQq9WdaNkb9yEcwP">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-YJXK2DHXjG7RZbYsjrPkqv" ANNOTATION_REF="i-AS7SWqBnYHaoKPcZ1FuQia">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_bul">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts27">
-                <ANNOTATION_VALUE>не трябва да демонизираме родителите които заминават в чужбина господин батилов и една минута</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts62">
-                <ANNOTATION_VALUE>Благодаря Госпожо председател мисля че Европейската комисия трябва да се занимае с този въпрос Уницеф и други организации</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a127">
-                <ANNOTATION_VALUE>0.91135806</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a128">
-                <ANNOTATION_VALUE>0.9335978</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a127">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a128">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_bul">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-NtiFxPdbme9eH1M31vMESq" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts27">
+        <ANNOTATION_VALUE>не трябва да демонизираме родителите които заминават в чужбина господин батилов и една минута</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-87YBMoS5LaSMeeP2BkLBgS" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts62">
+        <ANNOTATION_VALUE>Благодаря Госпожо председател мисля че Европейската комисия трябва да се занимае с този въпрос Уницеф и други организации</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-XK2UDsvHKKctoPMjRGoYH1" ANNOTATION_REF="i-NtiFxPdbme9eH1M31vMESq">
+        <ANNOTATION_VALUE>0.91135806</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-Wprb9c3g72TyffMAPybYRJ" ANNOTATION_REF="i-87YBMoS5LaSMeeP2BkLBgS">
+        <ANNOTATION_VALUE>0.9335978</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-6svHoqh4jaqtj5XKQ67mcJ" ANNOTATION_REF="i-NtiFxPdbme9eH1M31vMESq">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-WPiv2kysq4uBiHdVeYciZy" ANNOTATION_REF="i-87YBMoS5LaSMeeP2BkLBgS">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_corrected_by">
         </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_rum">
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>țuc așa că Haideți nu demonizat părinții care încearcă să își găsească în altă țară de lucru pentru a rezolva tocmai problema copiilor lor domnul batic Yo pentru un minut</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts63">
-                <ANNOTATION_VALUE>mulțumesc domnul președinte cred că în Comisia Europeană trebuie să se afle c supra acestui subiect dat fiind că UNICEF și alte Organizați</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_confidence">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a133">
-                <ANNOTATION_VALUE>0.87490064</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a134">
-                <ANNOTATION_VALUE>0.77772349</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_is_translation">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a133">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a134">
-                <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_rum">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-GE8Z1ZmcN292wj6P9TRLUB" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts30">
+        <ANNOTATION_VALUE>țuc așa că Haideți nu demonizat părinții care încearcă să își găsească în altă țară de lucru pentru a rezolva tocmai problema copiilor lor domnul batic Yo pentru un minut</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-FxbQcL9nETpvfTJYnhVJaM" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts63">
+        <ANNOTATION_VALUE>mulțumesc domnul președinte cred că în Comisia Europeană trebuie să se afle c supra acestui subiect dat fiind că UNICEF și alte Organizați</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_confidence">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-UHrvzJ1LK4SheZ7WnMyqY3" ANNOTATION_REF="i-GE8Z1ZmcN292wj6P9TRLUB">
+        <ANNOTATION_VALUE>0.87490064</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-6QMvSw7wRQR7zNT72TA8Zg" ANNOTATION_REF="i-FxbQcL9nETpvfTJYnhVJaM">
+        <ANNOTATION_VALUE>0.77772349</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_is_translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-8rmUKzapWgm9EwFivaoozM" ANNOTATION_REF="i-GE8Z1ZmcN292wj6P9TRLUB">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="i-L4HXAUvka8o6AB9kX3Cc6Z" ANNOTATION_REF="i-FxbQcL9nETpvfTJYnhVJaM">
+        <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_corrected_by">
         </TIER>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="corrected_by" TIME_ALIGNABLE="false" />
-    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
-    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
-    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
-    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
-    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+  <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="corrected_by" TIME_ALIGNABLE="false"/>
+  <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+  <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+  <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+  <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+  <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
 </ANNOTATION_DOCUMENT>
