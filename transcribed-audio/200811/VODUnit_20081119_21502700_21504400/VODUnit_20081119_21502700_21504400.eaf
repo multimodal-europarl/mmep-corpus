@@ -105,11 +105,11 @@
   </TIME_ORDER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_eng">
         </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_eng" TIER_ID="eng_confidence">
         </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_eng" TIER_ID="eng_is_translation">
         </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_eng" TIER_ID="eng_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_eng" TIER_ID="eng_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fra">
     <ANNOTATION>
@@ -123,7 +123,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_fra" TIER_ID="fra_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-KBNbawqSLbJzVwqBqP7gaz" ANNOTATION_REF="i-Jn2YhTMvwKrmgv916iNx6f">
         <ANNOTATION_VALUE>0.88505328</ANNOTATION_VALUE>
@@ -135,7 +135,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_fra" TIER_ID="fra_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-5pcJBdTnk4qnHj6eeetNq4" ANNOTATION_REF="i-Jn2YhTMvwKrmgv916iNx6f">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -147,7 +147,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fra" TIER_ID="fra_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_fra" TIER_ID="fra_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ger">
     <ANNOTATION>
@@ -161,7 +161,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_ger" TIER_ID="ger_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-9WVK99dMDV6i9N2NPEufhP" ANNOTATION_REF="i-QTwZN7sUQoxRLQyhZt2SWh">
         <ANNOTATION_VALUE>0.87625647</ANNOTATION_VALUE>
@@ -173,7 +173,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_ger" TIER_ID="ger_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-FiFmMH9KsHvqKVHqKZ4NnD" ANNOTATION_REF="i-QTwZN7sUQoxRLQyhZt2SWh">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -185,7 +185,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ger" TIER_ID="ger_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_ger" TIER_ID="ger_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ita">
     <ANNOTATION>
@@ -194,21 +194,21 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_ita" TIER_ID="ita_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-X56b9MC3jdJZhqZHpFbcmY" ANNOTATION_REF="i-DueaEKrxXbKkgdarmLaTPv">
         <ANNOTATION_VALUE>0.9532097</ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_ita" TIER_ID="ita_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-XELdGKZz4hZzrMvNFjhmUv" ANNOTATION_REF="i-DueaEKrxXbKkgdarmLaTPv">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_ita" TIER_ID="ita_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_ita" TIER_ID="ita_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_spa">
     <ANNOTATION>
@@ -222,7 +222,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_spa" TIER_ID="spa_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-5ySBA3qu6e2v5UA75Yzu2Z" ANNOTATION_REF="i-UJfxzsrR5Ud44GA71Pb6ko">
         <ANNOTATION_VALUE>0.9598397</ANNOTATION_VALUE>
@@ -234,7 +234,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_spa" TIER_ID="spa_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-V4VfgSmJGttng4zfDtcsvS" ANNOTATION_REF="i-UJfxzsrR5Ud44GA71Pb6ko">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -246,7 +246,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_spa" TIER_ID="spa_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_spa" TIER_ID="spa_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_gre">
     <ANNOTATION>
@@ -260,7 +260,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_gre" TIER_ID="gre_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-9Auxu3AVZAU5z53TuoU91Z" ANNOTATION_REF="i-HxrQJPbMwY7CJYMDZfArNb">
         <ANNOTATION_VALUE>0.89688152</ANNOTATION_VALUE>
@@ -272,7 +272,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_gre" TIER_ID="gre_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-FGzGqy8nzsji97nC3eHzG1" ANNOTATION_REF="i-HxrQJPbMwY7CJYMDZfArNb">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -284,7 +284,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_gre" TIER_ID="gre_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_gre" TIER_ID="gre_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_por">
     <ANNOTATION>
@@ -298,7 +298,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_por" TIER_ID="por_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-6GHTvGp5Vts5Bg8QVnL3Hw" ANNOTATION_REF="i-TDDoNsUm4rsWueQo8N5Q8s">
         <ANNOTATION_VALUE>0.90960193</ANNOTATION_VALUE>
@@ -310,7 +310,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_por" TIER_ID="por_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-KnXqQTHHcD9qfgAH9Tkjaa" ANNOTATION_REF="i-TDDoNsUm4rsWueQo8N5Q8s">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -322,7 +322,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_por" TIER_ID="por_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_por" TIER_ID="por_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dut">
     <ANNOTATION>
@@ -336,7 +336,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_dut" TIER_ID="dut_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-PigBNhUEBF6PADQdUdap9Y" ANNOTATION_REF="i-4jpFGkYWpbnfqoenfHrbvj">
         <ANNOTATION_VALUE>0.92222053</ANNOTATION_VALUE>
@@ -348,7 +348,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_dut" TIER_ID="dut_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-QYr2f8D4TvxiZTbaujyUzV" ANNOTATION_REF="i-4jpFGkYWpbnfqoenfHrbvj">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -360,7 +360,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dut" TIER_ID="dut_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_dut" TIER_ID="dut_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dan">
     <ANNOTATION>
@@ -374,7 +374,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_dan" TIER_ID="dan_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-2UC5PzX23xFirQhKrnYZmt" ANNOTATION_REF="i-SF1N8ppZ1XyxDUov9tA7FJ">
         <ANNOTATION_VALUE>0.83964884</ANNOTATION_VALUE>
@@ -386,7 +386,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_dan" TIER_ID="dan_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-9m34fgZw7oXR3w7pgTsBnt" ANNOTATION_REF="i-SF1N8ppZ1XyxDUov9tA7FJ">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -398,7 +398,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_dan" TIER_ID="dan_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_dan" TIER_ID="dan_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fin">
     <ANNOTATION>
@@ -417,7 +417,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_fin" TIER_ID="fin_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-2BpQWH5LQpDKEExUQhvHBF" ANNOTATION_REF="i-AhwHMznABHx199GtEvmEK3">
         <ANNOTATION_VALUE>0.91222942</ANNOTATION_VALUE>
@@ -434,7 +434,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_fin" TIER_ID="fin_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-A3ZMZAP37fijaxGMPjYZY7" ANNOTATION_REF="i-AhwHMznABHx199GtEvmEK3">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -451,7 +451,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_fin" TIER_ID="fin_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_fin" TIER_ID="fin_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_swe">
     <ANNOTATION>
@@ -470,7 +470,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_swe" TIER_ID="swe_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-LGMCetyqmUu1tqup4usdJL" ANNOTATION_REF="i-HpTD19j2EfxWTenZpEF9Mj">
         <ANNOTATION_VALUE>0.79501981</ANNOTATION_VALUE>
@@ -487,7 +487,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_swe" TIER_ID="swe_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-FJ1aEAtQGU8rrU963tNRen" ANNOTATION_REF="i-HpTD19j2EfxWTenZpEF9Mj">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -504,7 +504,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_swe" TIER_ID="swe_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_swe" TIER_ID="swe_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_cze">
     <ANNOTATION>
@@ -518,7 +518,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_cze" TIER_ID="cze_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-S2FJCVbF9GnNkUuDQGySMD" ANNOTATION_REF="i-9qr9J828m94M7fSXa1rdkd">
         <ANNOTATION_VALUE>0.94070601</ANNOTATION_VALUE>
@@ -530,7 +530,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_cze" TIER_ID="cze_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-44ZwLFhnvG3ZQHVQdTvJdQ" ANNOTATION_REF="i-9qr9J828m94M7fSXa1rdkd">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -542,7 +542,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_cze" TIER_ID="cze_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_cze" TIER_ID="cze_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_est">
     <ANNOTATION>
@@ -551,21 +551,21 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_est" TIER_ID="est_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-AAepVeiTHNbUHyuwVXpQiL" ANNOTATION_REF="i-Jd6joosZDVc7gkW6WdgyJ2">
         <ANNOTATION_VALUE>0.72972202</ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_est" TIER_ID="est_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-9j92FxusN38pw68kgUsxgk" ANNOTATION_REF="i-Jd6joosZDVc7gkW6WdgyJ2">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_est" TIER_ID="est_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_est" TIER_ID="est_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lav">
     <ANNOTATION>
@@ -584,7 +584,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_lav" TIER_ID="lav_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-K1tKRBcw9Z67sun7E3pSdV" ANNOTATION_REF="i-Lo6BdHyahWFXznFm82YBV">
         <ANNOTATION_VALUE>0.65222329</ANNOTATION_VALUE>
@@ -601,7 +601,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_lav" TIER_ID="lav_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-RomZCifnbLmKDLQwQ5i74J" ANNOTATION_REF="i-Lo6BdHyahWFXznFm82YBV">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -618,7 +618,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lav" TIER_ID="lav_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_lav" TIER_ID="lav_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lit">
     <ANNOTATION>
@@ -632,7 +632,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_lit" TIER_ID="lit_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-XnPCAWpToCdiGYYGxAbVsC" ANNOTATION_REF="i-4drh4cEgMbpGDumZT8TXdW">
         <ANNOTATION_VALUE>0.86945635</ANNOTATION_VALUE>
@@ -644,7 +644,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_lit" TIER_ID="lit_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-FiefBpjpWnUhZ2GBEijijn" ANNOTATION_REF="i-4drh4cEgMbpGDumZT8TXdW">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -656,7 +656,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_lit" TIER_ID="lit_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_lit" TIER_ID="lit_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_hun">
     <ANNOTATION>
@@ -665,21 +665,21 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_hun" TIER_ID="hun_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-Pxci1Po5U9WtfHxrMwZmWV" ANNOTATION_REF="i-K2394FsfHRdXCtpPFuMNnH">
         <ANNOTATION_VALUE>0.8477667</ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_hun" TIER_ID="hun_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-WC2SWiSAkQLy3TBEWkDL2G" ANNOTATION_REF="i-K2394FsfHRdXCtpPFuMNnH">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_hun" TIER_ID="hun_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_hun" TIER_ID="hun_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_mlt">
     <ANNOTATION>
@@ -688,11 +688,11 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_mlt" TIER_ID="mlt_confidence">
         </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_mlt" TIER_ID="mlt_is_translation">
         </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_mlt" TIER_ID="mlt_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_mlt" TIER_ID="mlt_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_pol">
     <ANNOTATION>
@@ -706,7 +706,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_pol" TIER_ID="pol_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-ASmXhQk5SxmjxEbxLk6LHs" ANNOTATION_REF="i-V5EVZ3m9KXx5r8M9PjmJUX">
         <ANNOTATION_VALUE>0.96341115</ANNOTATION_VALUE>
@@ -718,7 +718,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_pol" TIER_ID="pol_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-KMdjXubG7hgPf8sjmsZtzt" ANNOTATION_REF="i-V5EVZ3m9KXx5r8M9PjmJUX">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -730,7 +730,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_pol" TIER_ID="pol_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_pol" TIER_ID="pol_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slo">
     <ANNOTATION>
@@ -744,7 +744,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_slo" TIER_ID="slo_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-PCX8RciMoogB34sv1bUtss" ANNOTATION_REF="i-LSHJMDsUEJVeKCtRFhzuQu">
         <ANNOTATION_VALUE>0.82445019</ANNOTATION_VALUE>
@@ -756,7 +756,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_slo" TIER_ID="slo_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-Wgu7xYshvCJfFjWagjXBQn" ANNOTATION_REF="i-LSHJMDsUEJVeKCtRFhzuQu">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -768,7 +768,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slo" TIER_ID="slo_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_slo" TIER_ID="slo_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slv">
     <ANNOTATION>
@@ -777,21 +777,21 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_slv" TIER_ID="slv_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-DUScoHRVQi7QNfHetcx7Bx" ANNOTATION_REF="i-B7NGGvvV6it8ATkfZSafuY">
         <ANNOTATION_VALUE>0.84347093</ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_slv" TIER_ID="slv_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-8QjQbZmJue2jX96chycnTr" ANNOTATION_REF="i-B7NGGvvV6it8ATkfZSafuY">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_slv" TIER_ID="slv_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_slv" TIER_ID="slv_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_bul">
     <ANNOTATION>
@@ -805,7 +805,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_bul" TIER_ID="bul_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-QTZgapRNWT9Us3czn1QZCB" ANNOTATION_REF="i-UTB9U3Yk9pnAhtwpjcW9tj">
         <ANNOTATION_VALUE>0.90174592</ANNOTATION_VALUE>
@@ -817,7 +817,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_bul" TIER_ID="bul_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-47TEM5VvwXdVFDB9jgzUGx" ANNOTATION_REF="i-UTB9U3Yk9pnAhtwpjcW9tj">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -829,7 +829,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_bul" TIER_ID="bul_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_bul" TIER_ID="bul_corrected_by">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_rum">
     <ANNOTATION>
@@ -843,7 +843,7 @@
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_confidence">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_rum" TIER_ID="rum_confidence">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-YBLBFuuZFLJeryYfKF6xTJ" ANNOTATION_REF="i-4C2hbgpuyE61qHZLwEdop1">
         <ANNOTATION_VALUE>0.93962836</ANNOTATION_VALUE>
@@ -855,7 +855,7 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_is_translation">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_rum" TIER_ID="rum_is_translation">
     <ANNOTATION>
       <REF_ANNOTATION ANNOTATION_ID="i-JK4bpuwuyGZdYNiF3zobEv" ANNOTATION_REF="i-4C2hbgpuyE61qHZLwEdop1">
         <ANNOTATION_VALUE>True</ANNOTATION_VALUE>
@@ -867,9 +867,9 @@
       </REF_ANNOTATION>
     </ANNOTATION>
   </TIER>
-  <TIER LINGUISTIC_TYPE_REF="corrected_by" PARENT_REF="transcription_rum" TIER_ID="rum_corrected_by">
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_rum" TIER_ID="rum_corrected_by">
         </TIER>
-  <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="corrected_by" TIME_ALIGNABLE="false"/>
+  <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Transcription_Dependent" TIME_ALIGNABLE="false"/>
   <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
   <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
   <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
