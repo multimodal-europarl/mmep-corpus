@@ -103,7 +103,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_eng" TIER_ID="eng_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-ADCjT484gkyJfw2RqMWk9E" ANNOTATION_ID="i-GNd3w42kkaH6s6eHpXEpvb">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fra">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-YFv7xB2iCoKnHybp1qvbwU" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts47">
@@ -141,7 +146,17 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_fra" TIER_ID="fra_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-YFv7xB2iCoKnHybp1qvbwU" ANNOTATION_ID="i-AjDmQ4P3NQ2Xd43PQnxcPs">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-KQ2XPR1WgQELqYRSs8Nqed" ANNOTATION_ID="i-Ut7yHQfXNyDUrFgehD3JRH">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ger">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-NyhZESVkM9TYtqPxg8AcJx" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts40">
@@ -164,7 +179,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_ger" TIER_ID="ger_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-NyhZESVkM9TYtqPxg8AcJx" ANNOTATION_ID="i-SUssa6swnjoreaRJcy6PoD">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_ita">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-JT3WLY8QVnSw7dZRpZ5VgX" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts41">
@@ -187,7 +207,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_ita" TIER_ID="ita_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-JT3WLY8QVnSw7dZRpZ5VgX" ANNOTATION_ID="i-2mxEQQkcEF3i9vteXB2nFD">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_spa">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-36f4qR3nUtbMXm6jXa6hFd" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts48">
@@ -225,7 +250,17 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_spa" TIER_ID="spa_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-36f4qR3nUtbMXm6jXa6hFd" ANNOTATION_ID="i-2bsciEYk1owBvuSt9isEvq">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-XLzxJjuzFY2UcvH4oC3Q5V" ANNOTATION_ID="i-RFn3aKG3grk7sG3CMvypLv">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_gre">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-CYJaadYSwGrLFXjtgmTrBW" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts24">
@@ -248,15 +283,19 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_gre" TIER_ID="gre_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-CYJaadYSwGrLFXjtgmTrBW" ANNOTATION_ID="i-CyNdaiZfUMoZBz46eoqKSL">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_por">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_por" TIER_ID="por_confidence">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_por" TIER_ID="por_is_translation">
         </TIER>
-  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_por" TIER_ID="por_manually_corrected">
-        </TIER>
+  <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_por" TIER_ID="por_manually_corrected"/>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dut">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-2bHqu62zEQ6mApFCM4tP3S" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts26">
@@ -279,7 +318,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_dut" TIER_ID="dut_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-2bHqu62zEQ6mApFCM4tP3S" ANNOTATION_ID="i-5tNvRbk1VDrUjjneMka9Jp">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_dan">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-3eVSyfNA9UbwLG3htW4Hyz" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts27">
@@ -302,7 +346,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_dan" TIER_ID="dan_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-3eVSyfNA9UbwLG3htW4Hyz" ANNOTATION_ID="i-LeaTLwnixsV1xDmYQPZbRS">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_fin">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-EJxni46wXKk6dbyRmHyP5y" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts46">
@@ -325,7 +374,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_fin" TIER_ID="fin_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-EJxni46wXKk6dbyRmHyP5y" ANNOTATION_ID="i-BHWZr5xgcJJWHvmzRYVawt">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_swe">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-3HhAi7f9WtFG5akzTEvY33" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts29">
@@ -348,7 +402,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_swe" TIER_ID="swe_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-3HhAi7f9WtFG5akzTEvY33" ANNOTATION_ID="i-WigZzwfogtScjSBvKPm7c3">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_cze">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-HNA3EPTcZVhdjkmwj2ZqgB" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts30">
@@ -371,7 +430,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_cze" TIER_ID="cze_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-HNA3EPTcZVhdjkmwj2ZqgB" ANNOTATION_ID="i-LWF7aqTzgzxgFyJjgRNnQ2">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_est">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-Aq8NBNVuEzwZwQBPr4kM9H" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts31">
@@ -394,7 +458,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_est" TIER_ID="est_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-Aq8NBNVuEzwZwQBPr4kM9H" ANNOTATION_ID="i-WqsqrZjgPKzFPDSDwy9tV1">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lav">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-9BLgub44S8RH5yyjFmJpGS" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts49">
@@ -432,7 +501,17 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_lav" TIER_ID="lav_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-9BLgub44S8RH5yyjFmJpGS" ANNOTATION_ID="i-WbFR6ok2J61ppTMk1XCxVZ">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-LD2cYkvgT2PgrtRGjEEa99" ANNOTATION_ID="i-Bg648SpjDsPVksGEeHqs9g">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_lit">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-91PRddRKH5kekFvgA2MZNW" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts33">
@@ -455,7 +534,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_lit" TIER_ID="lit_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-91PRddRKH5kekFvgA2MZNW" ANNOTATION_ID="i-A6KiefqSnPz7SnXkVyNqPy">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_hun">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-QwDPKwjUmtsjPWgm8seB2c" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts23">
@@ -493,7 +577,17 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_hun" TIER_ID="hun_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-QwDPKwjUmtsjPWgm8seB2c" ANNOTATION_ID="i-XihsVptTBKcF6mULmpb9KY">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-EztZ2NRH2WqT2BzMW5RMpx" ANNOTATION_ID="i-V1PzVd4XaWthvBBm3Ygz1j">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_mlt">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-WAdjtMLarrceVR2PsVQN46" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts35">
@@ -506,7 +600,12 @@
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_mlt" TIER_ID="mlt_is_translation">
         </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_mlt" TIER_ID="mlt_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-WAdjtMLarrceVR2PsVQN46" ANNOTATION_ID="i-SdCBSeNJRC1jF2ixQJEXQ8">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_pol">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-XGQRVPrGaycgAs3KdCEnHU" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts43">
@@ -529,7 +628,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_pol" TIER_ID="pol_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-XGQRVPrGaycgAs3KdCEnHU" ANNOTATION_ID="i-UBPfva2VvDXGEPptiez9Wx">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slo">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-LtQKPhxorL38ErFKnenptL" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts44">
@@ -552,7 +656,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_slo" TIER_ID="slo_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-LtQKPhxorL38ErFKnenptL" ANNOTATION_ID="i-CQa3ZZqoJ4qFuUrFJnoG8f">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_slv">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-4qvoVc3b6VFpzhV9VwSULo" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts36">
@@ -575,7 +684,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_slv" TIER_ID="slv_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-4qvoVc3b6VFpzhV9VwSULo" ANNOTATION_ID="i-E8sbpPSEqMCyH1q1YDQ5Pr">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_bul">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-Jy2kD2zbZ8wnLrmWTuBmmr" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts37">
@@ -598,7 +712,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_bul" TIER_ID="bul_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-Jy2kD2zbZ8wnLrmWTuBmmr" ANNOTATION_ID="i-8Q61pG6EyfBQvn1L7cv6K5">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcription_rum">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="i-8PcoDotX6bzcM5QFvSTZVz" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts45">
@@ -621,7 +740,12 @@
     </ANNOTATION>
   </TIER>
   <TIER LINGUISTIC_TYPE_REF="Transcription_Dependent" PARENT_REF="transcription_rum" TIER_ID="rum_manually_corrected">
-        </TIER>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_REF="i-8PcoDotX6bzcM5QFvSTZVz" ANNOTATION_ID="i-6RLAp1uBRWUVUtVP6vkeiJ">
+        <ANNOTATION_VALUE>False</ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
   <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Transcription_Dependent" TIME_ALIGNABLE="false"/>
   <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
   <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
